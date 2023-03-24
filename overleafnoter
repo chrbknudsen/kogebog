@@ -288,22 +288,7 @@ Smid den al dente pasta i panden, bland, og tilsæt parmasan, smag til med peber
 Tuscan bønner
 
 https://www.visittuscany.com/en/recipes/fagioli-alluccelletto-tuscan-style-beans-recipe/
-\subsection{specialiteter}
-\subsubsection{Konfiterede hvidløg}
-Et lille sylteglas fyldes med pillede hvidløg
-Salt kommes i, sammen med krydderier.
-Her har jeg brugt rosmarin og rosenpeber.
-Så fyldes glasset med en god olie og låget lukkes til.
-Så sous vides det i 3-4 timer på 87°
 
-\subsubsection{Saltede æggeblommer}
-
-Fyld et par centimeter fint (IKKE groft) salt i en bøtte.
-Skil blommer fra æg, og placer dem på saltet. Dæk fuldsændigt med salt
-Lad stå i køleskabet 8 timer. 
-Pil æggeblommerne op af saltet, skyl dem i koldt vand, tør dem. Og 
-tør dem i ovnen vad 60 grader - 2 timer er for lidt, opskriften sagde også 3.
-De er for gummiagtige, så de skal have længere end det.
 
 \subsection{pastasalat til madpakke}
 
@@ -419,29 +404,3 @@ bliver til
 Cream (cream + lemon)
 Cheddar (chees, worchestershire sovs, mustard
 
-
-
-\begin{tikzpicture}[
-    box/.style={rectangle, draw, minimum width=2cm, minimum height=1cm, align=center},
-    arrow/.style={-Stealth, thick}
-]
-    % Second row
-    \node[box] (row2-1) {First line\\Second line};
-    \node[box, right=0.5cm of row2-1] (row2-2) {First line\\Second line};
-    \node[box, right=0.5cm of row2-2] (row2-3) {First line\\Second line};
-    \node[box, right=0.5cm of row2-3] (row2-4) {First line\\Second line};
-    \node[box, right=0.5cm of row2-4] (row2-5) {First line\\Second line};
-
-    % First row
-    \node[box, above=2cm of row2-3] (row1) {First line\\Second line};
-
-    % Arrows
-    \draw[arrow] (row1) -- (row2-1);
-    \draw[arrow] (row1) -- (row2-2);
-    \draw[arrow] (row1) -- (row2-3);
-    \draw[arrow] (row1) -- (row2-4);
-    \draw[arrow] (row1) -- (row2-5);
-\end{tikzpicture}
-
-
-\end{document}
