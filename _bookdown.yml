@@ -5,6 +5,8 @@ language:
 rmd_files: [
   "index.Rmd",
   "setup.Rmd",
-  "write.Rmd"]
+  "write.Rmd",
+  "sovsene.Rmd",
+  "kondimenterne.Rmd"]
 delete_merged_file: true 
 output_dir: "docs"

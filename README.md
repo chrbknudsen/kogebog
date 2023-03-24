@@ -1,3 +1,3 @@
 # Nusses kogebog
-Mine opskrifter og sådna
+Mine opskrifter og sådden
 
