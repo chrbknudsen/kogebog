@@ -1,5 +1,8 @@
 # Sovsene
 
+
+Hvorfor er billedet der ikke? Kaninen er der!
+
 ![sovsene](images/saucer.jpg)
 
 Den skal laves til noget egen grafik.
