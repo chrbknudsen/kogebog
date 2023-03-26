@@ -12,8 +12,8 @@ bookdown::gitbook:
         <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
     edit: https://github.com/jules32/bookdown-tutorial/edit/master/%s
     download: ["pdf"]
-# bookdown::pdf_book:
-#  includes:
-#    in_header: _preamble.tex
-#  latex_engine: xelatex
-#  keep_tex: no
+bookdown::pdf_book:
+ includes:
+   in_header: _preamble.tex
+ latex_engine: pdflatex
+ keep_tex: no
