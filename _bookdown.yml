@@ -13,6 +13,8 @@ rmd_files: [
   "ko.Rmd",
   "sovsene.Rmd",
   "kondimenterne.Rmd",
-  "specialiteterne.Rmd"]
+  "kylling.Rmd",
+  "specialiteterne.Rmd",
+  "diverse.Rmd"]
 delete_merged_file: true 
 output_dir: "docs"
