@@ -37,7 +37,7 @@ Gerne en lille rosin eller korender som øje.
 
 
 ## rå overleafnoter
-stammpot
+### stammpot
 
 et par kilo kartofler
 
@@ -63,7 +63,7 @@ Server med skiveskårne, gerne røgede, pølser.
 
 ## Gratiner
 
-##chachouka
+## chachouka
 
 5 peberfrugter (men det afhænger selvfølgelig af størrelsen) er passende.
 6 æg er fint.
@@ -150,8 +150,10 @@ Bland pastaen i. juster evt. tykkelsen af sovsen med pastavandet.
 
 4 dl risotto ris
 
-## Aglio et olio}
-### ingredienser}
+## Aglio et olio
+
+### ingredienser
+
 400 g bucatini er passende. Prøv med 410 gram næste gang.
  4 fed hvidløg, finthakket
  4 spsk god olivenolie
@@ -168,22 +170,9 @@ vend pastaen i olien og rør sammen med parmasan og persille
 
 2 af faktas flutes ting til.
 
-## Mac n Peas
-600 g frostærter
-280 g makaroni
-50 g smør
-1 fed hvidløg
-25 g parmasan
-
-Kog ærter og makeroni
-Hak hvidløg fint, og lun i smørret på sauterpanden
-Overfør de fleste af ærterne til panden, og stavblend sammen med parmasanen (og salt og peber)
-De resterende hele ærter, evt også lidt kogevand, samt makeroni røres sammen med ærtemosen i panden.
-
-faktas flutes ting til.
-Mængderne lige i ov erkanten.
 
 ## one pot lasagne
+
 ### Anekdoten
 Vi så store mængder youtubevideoer. Med en eller anden der ikke hedder babish, men kalder sig det alligevel.
 
@@ -210,11 +199,28 @@ https://basicswithbabish.co/basicsepisodes/onepot-pasta
 
 ## gratin
 
-://www.dr.dk/mad/opskrift/gratin-med-kylling-og-gront
-
 Men det er basisopskriften. Den skal bruges til at skaffe os af med rester.
 
 
+100 g smør
+150 g mel
+3 dl grøntsagsbouillon
+3 dl sødmælk
+8 æg
+salt, peber, rasp
+
+mindst 50 gram rester, men den kan sagtens trække en del mere.
+Skær resterne i mindre stykker
+
+Smelt smør, rør sammen med mel. Lav grundlæggende en opbagt
+sovs med væsken.
+Del æggene, tag gryden af varmen, og rør blommerne i,.
+
+Pisk hviderne stive, vend halvdelen i gryden sammen med fyldet.
+
+Vend resten af hviderne i. Smør et fad/skål 
+og drys med rasp. drys rasp over gratinen, bag nederst i ovnen
+ved 175 grader i ca. 1 time. Server med smeltet smør.
 ## Tabbouleh
 
 2 dl bulgur
