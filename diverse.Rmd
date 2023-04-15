@@ -61,7 +61,7 @@ Server med skiveskårne, gerne røgede, pølser.
 
 ## den faste madplansrotation
 
-## Gratiner
+
 
 ## chachouka
 
@@ -81,11 +81,7 @@ Hvidløg
 
 
 
-## Italiensk pølsebix
 
-## Standard pastabix
-
-## Onepot Pasta
 
 ## Risengrød
 
@@ -102,35 +98,7 @@ en isterning
 3 spsk olie
 salt og peber
 
-## Putanesca
 
-## Luderpasta
-### ingredienser
-200 g sorte oliven
-2 spsk kapers
-4-5 rensede ansjoser
-3 fed hvidløg
-1-2 peperocini
-1 dåse flåede tomater
-1 spsk revet citronskal
-1 håndfuld persille
-1 smule olivenolie
-320 gram spaghetti
-
-
-Hak det hele fint, hver for sig.
-
-olien varmes op på panden, og hvidløg og peperocini svitses. Hvidløget må ikke blive brunt. Og peberen er en smagssag.
-
-Tilsæt oliven, kapers og ansjoser. Steg lidt under omrøring
-
-flåede tomater tilsættes.
-
-Lad det simre mens pastaen koges.
-
-Smag sovsen til med slat og peber, lidt sukker og hakket persille samt citronskal.
-
-Bland pastaen i. juster evt. tykkelsen af sovsen med pastavandet.
 
 ## Dahl
 210 gram røde linser
@@ -150,52 +118,7 @@ Bland pastaen i. juster evt. tykkelsen af sovsen med pastavandet.
 
 4 dl risotto ris
 
-## Aglio et olio
 
-### ingredienser
-
-400 g bucatini er passende. Prøv med 410 gram næste gang.
- 4 fed hvidløg, finthakket
- 4 spsk god olivenolie
- parmasan - 53 gram er for lidt
- hakket persille - en håndfuld.
- Chili - nok bedre med en peperonici eller hvad den nu hedder En enkelt tørret chili er passende
-
-
-
-hak chili og hvidløg, og lun i olien i sauterpanden. Det går hurtigt, så det kan godt vente til pastaen er i vandet.
-
-Kog pastaen til den er al dente,
-vend pastaen i olien og rør sammen med parmasan og persille
-
-2 af faktas flutes ting til.
-
-
-## one pot lasagne
-
-### Anekdoten
-Vi så store mængder youtubevideoer. Med en eller anden der ikke hedder babish, men kalder sig det alligevel.
-
-Ricottaen er pillet ud. 2 klodser moz er fint. En karton pizzasovs, og en enkelt dåse hakket tomat er også nok.
-400 gram hakket ko.
-Og så kom jeg i første omgang noget der minder om 15 lasagneplader i - og det var i overkanten.
-https://basicswithbabish.co/basicsepisodes/onepot-pasta
-
-
-originalen:
-10 lasagneplader
-1 spsk oliven olie
-½ kg spicy italiensk pølse. Men vi bruger hakket kød
-½ stort løg
-2 fed hvidløg
-1 tsk røde peber flager
-28 oz knuste san marzano tomater. på dåse
-½ cupå varmt vand
-8 oz tomatsovs
-8 oz mozarella
-basilikum. Og sådan
-
-https://basicswithbabish.co/basicsepisodes/onepot-pasta
 
 ## gratin
 
@@ -221,6 +144,7 @@ Pisk hviderne stive, vend halvdelen i gryden sammen med fyldet.
 Vend resten af hviderne i. Smør et fad/skål 
 og drys med rasp. drys rasp over gratinen, bag nederst i ovnen
 ved 175 grader i ca. 1 time. Server med smeltet smør.
+
 ## Tabbouleh
 
 2 dl bulgur
@@ -249,29 +173,7 @@ Youghurten krydres med salt og spidskommen.
 Halver de fire løg, steg dem på skæresiden i en pande ved høj varme og olie. Når de har taget farve, skrues ned til middel varme, og 
 de steger møre i fem minutter.
 
-## pasta med broccoli
-400 gram pasta
-1 stor buket broccoli - eller 2 små, det er sådan de kommer i mit supermarked.
-5 hvidløg
-7 ansjosfilleter (i olie)
-Chili/peperoncini eller lign. et mellemstort nip
-olie
-peber
-Revet parmasam
 
-Skær broccoli i små buketter, skræl og skær stokken ud i mindre stykker.
-
-Kog broccolien i let saltet vand - til den stadig er relativt fast. Si vandet fra broccolien.
-
-Sæt pastaen over. 10 gram salt per liter vand.
-
-Hak hvidløg og ansjoser, og steg hvidløgene i olivenolie i en sasuterpande sammen med chilien i et par minutter. Tilsæt ansjoserne, og steg videre til fisken er smeltet. Giv det evt lidt pastavand hvis det bliver tørt.
-
-Smid broccolien i panden, og steg dem med.
-
-Det skal først ske når pastaen er næsten færdig, ellers bliver broccolien let for smattet.
-
-Smid den al dente pasta i panden, bland, og tilsæt parmasan, smag til med peber og juster med pastavand.
 
 
 
@@ -358,7 +260,7 @@ et æg i hvert. Fold den overskydende butterdej ind over, trim
 bagepapiret af, og sæt tærten i ovnen i 20 minutter - lidt længere
 i min ovn.
 
-\subsection{1000 øers dressing}
+## 1000 øers dressing
 
 Mayo - svarende til af en æggeblomme og 3 dl olie
 
@@ -373,7 +275,7 @@ Mayo - svarende til af en æggeblomme og 3 dl olie
 
 det hele blandes sammen.
 
-\subsection{kartoffelfrikadeller}
+## kartoffelfrikadeller
 
 500 gram kartoffelmos
 1 revet løg
