@@ -1,58 +1,62 @@
 \contentsline {chapter}{\numberline {1}Welcome}{5}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Learn all about Bookdown}{6}{section.1.1}%
-\contentsline {chapter}{\numberline {2}Gris}{7}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Vildt}{9}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Kanin}{9}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Forloren gedegryde.}{9}{subsection.3.1.1}%
-\contentsline {chapter}{\numberline {4}Lam}{11}{chapter.4}%
-\contentsline {section}{\numberline {4.1}LAMMEKØLLE}{11}{section.4.1}%
-\contentsline {chapter}{\numberline {5}Retter med kylling}{13}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Hverdagskylling med kremede svampe}{13}{section.5.1}%
-\contentsline {section}{\numberline {5.2}pollo orzo}{13}{section.5.2}%
-\contentsline {chapter}{\numberline {6}preservationerne}{15}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Æblesmør}{15}{section.6.1}%
-\contentsline {chapter}{\numberline {7}Pasta}{17}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Mac n Peas}{17}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Pasta al Dante}{17}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Ko}{19}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Sovsene}{21}{chapter.9}%
-\contentsline {section}{\numberline {9.1}bærnæse}{21}{section.9.1}%
-\contentsline {section}{\numberline {9.2}De andre sovse}{21}{section.9.2}%
-\contentsline {subsection}{\numberline {9.2.1}steaksovs:}{21}{subsection.9.2.1}%
-\contentsline {subsection}{\numberline {9.2.2}Pebersovs}{21}{subsection.9.2.2}%
-\contentsline {subsection}{\numberline {9.2.3}BALSAMICO SOVS}{23}{subsection.9.2.3}%
-\contentsline {chapter}{\numberline {10}kondimenterne}{25}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Trykkogerketchup}{25}{section.10.1}%
-\contentsline {section}{\numberline {10.2}skalottemarmelade}{25}{section.10.2}%
-\contentsline {chapter}{\numberline {11}Specialiteterne}{27}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Konfiterede hvidløg}{27}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Saltede æggeblommer}{27}{section.11.2}%
-\contentsline {chapter}{\numberline {12}Diverse og usorteret}{29}{chapter.12}%
-\contentsline {section}{\numberline {12.1}fuglebrød}{30}{section.12.1}%
-\contentsline {section}{\numberline {12.2}rå overleafnoter}{30}{section.12.2}%
-\contentsline {subsection}{\numberline {12.2.1}stammpot}{30}{subsection.12.2.1}%
-\contentsline {section}{\numberline {12.3}den faste madplansrotation}{31}{section.12.3}%
-\contentsline {section}{\numberline {12.4}Gratiner}{31}{section.12.4}%
-\contentsline {section}{\numberline {12.5}chachouka}{31}{section.12.5}%
-\contentsline {section}{\numberline {12.6}brændende kærlighed}{31}{section.12.6}%
-\contentsline {section}{\numberline {12.7}kylling i karry}{31}{section.12.7}%
-\contentsline {section}{\numberline {12.8}Italiensk pølsebix}{31}{section.12.8}%
-\contentsline {section}{\numberline {12.9}Standard pastabix}{31}{section.12.9}%
-\contentsline {section}{\numberline {12.10}Onepot Pasta}{31}{section.12.10}%
-\contentsline {section}{\numberline {12.11}Risengrød}{31}{section.12.11}%
-\contentsline {section}{\numberline {12.12}Hummus}{31}{section.12.12}%
-\contentsline {section}{\numberline {12.13}Putanesca}{31}{section.12.13}%
-\contentsline {section}{\numberline {12.14}Luderpasta}{31}{section.12.14}%
-\contentsline {subsection}{\numberline {12.14.1}ingredienser}{31}{subsection.12.14.1}%
-\contentsline {section}{\numberline {12.15}Dahl}{32}{section.12.15}%
-\contentsline {section}{\numberline {12.16}Risotto}{32}{section.12.16}%
-\contentsline {section}{\numberline {12.17}Aglio et olio}{32}{section.12.17}%
-\contentsline {subsection}{\numberline {12.17.1}ingredienser}{32}{subsection.12.17.1}%
-\contentsline {section}{\numberline {12.18}one pot lasagne}{32}{section.12.18}%
-\contentsline {subsection}{\numberline {12.18.1}Anekdoten}{32}{subsection.12.18.1}%
-\contentsline {section}{\numberline {12.19}gratin}{33}{section.12.19}%
-\contentsline {section}{\numberline {12.20}pasta med broccoli}{33}{section.12.20}%
-\contentsline {section}{\numberline {12.21}pastasalat til madpakke}{34}{section.12.21}%
-\contentsline {section}{\numberline {12.22}Svampe/spinat tærte}{35}{section.12.22}%
-\contentsline {subsection}{\numberline {12.22.1}1000 øers dressing}{35}{subsection.12.22.1}%
-\contentsline {subsection}{\numberline {12.22.2}kartoffelfrikadeller}{35}{subsection.12.22.2}%
+\contentsline {section}{\numberline {1.1}Learn all about Bookdown}{7}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Gris}{9}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Vildt}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Kanin}{11}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Forloren gedegryde.}{11}{subsection.3.1.1}%
+\contentsline {chapter}{\numberline {4}Lam}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}LAMMEKØLLE}{13}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Retter med kylling}{15}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Hverdagskylling med kremede svampe}{15}{section.5.1}%
+\contentsline {section}{\numberline {5.2}pollo orzo}{15}{section.5.2}%
+\contentsline {chapter}{\numberline {6}preservationerne}{17}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Æblesmør}{17}{section.6.1}%
+\contentsline {chapter}{\numberline {7}Pasta}{19}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Mac n Peas}{19}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Pasta al Dante}{19}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Italiensk pølsebix}{20}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Standard pastabix}{20}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Onepot Pasta}{20}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Putanesca}{20}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Luderpasta}{20}{section.7.7}%
+\contentsline {subsection}{\numberline {7.7.1}ingredienser}{20}{subsection.7.7.1}%
+\contentsline {section}{\numberline {7.8}Aglio et olio}{20}{section.7.8}%
+\contentsline {subsection}{\numberline {7.8.1}ingredienser}{20}{subsection.7.8.1}%
+\contentsline {section}{\numberline {7.9}one pot lasagne}{21}{section.7.9}%
+\contentsline {subsection}{\numberline {7.9.1}Anekdoten}{21}{subsection.7.9.1}%
+\contentsline {section}{\numberline {7.10}pasta med broccoli}{21}{section.7.10}%
+\contentsline {chapter}{\numberline {8}Ko}{23}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Sovsene}{25}{chapter.9}%
+\contentsline {section}{\numberline {9.1}bærnæse}{25}{section.9.1}%
+\contentsline {section}{\numberline {9.2}De andre sovse}{25}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}steaksovs:}{25}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}Pebersovs}{25}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}BALSAMICO SOVS}{27}{subsection.9.2.3}%
+\contentsline {chapter}{\numberline {10}kondimenterne}{29}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Trykkogerketchup}{29}{section.10.1}%
+\contentsline {section}{\numberline {10.2}skalottemarmelade}{29}{section.10.2}%
+\contentsline {chapter}{\numberline {11}Specialiteterne}{31}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Konfiterede hvidløg}{31}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Saltede æggeblommer}{31}{section.11.2}%
+\contentsline {chapter}{\numberline {12}Rester}{33}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Standard pastabix}{33}{section.12.1}%
+\contentsline {section}{\numberline {12.2}bixemad}{33}{section.12.2}%
+\contentsline {section}{\numberline {12.3}gratin}{33}{section.12.3}%
+\contentsline {chapter}{\numberline {13}Diverse og usorteret}{35}{chapter.13}%
+\contentsline {section}{\numberline {13.1}fuglebrød}{36}{section.13.1}%
+\contentsline {section}{\numberline {13.2}rå overleafnoter}{36}{section.13.2}%
+\contentsline {subsection}{\numberline {13.2.1}stammpot}{36}{subsection.13.2.1}%
+\contentsline {section}{\numberline {13.3}den faste madplansrotation}{37}{section.13.3}%
+\contentsline {section}{\numberline {13.4}chachouka}{37}{section.13.4}%
+\contentsline {section}{\numberline {13.5}brændende kærlighed}{37}{section.13.5}%
+\contentsline {section}{\numberline {13.6}kylling i karry}{37}{section.13.6}%
+\contentsline {section}{\numberline {13.7}Risengrød}{37}{section.13.7}%
+\contentsline {section}{\numberline {13.8}Hummus}{37}{section.13.8}%
+\contentsline {section}{\numberline {13.9}Dahl}{37}{section.13.9}%
+\contentsline {section}{\numberline {13.10}Risotto}{37}{section.13.10}%
+\contentsline {section}{\numberline {13.11}gratin}{37}{section.13.11}%
+\contentsline {section}{\numberline {13.12}Tabbouleh}{38}{section.13.12}%
+\contentsline {section}{\numberline {13.13}pastasalat til madpakke}{38}{section.13.13}%
+\contentsline {section}{\numberline {13.14}Svampe/spinat tærte}{39}{section.13.14}%
+\contentsline {section}{\numberline {13.15}1000 øers dressing}{39}{section.13.15}%
+\contentsline {section}{\numberline {13.16}kartoffelfrikadeller}{40}{section.13.16}%
