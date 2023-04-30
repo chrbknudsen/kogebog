@@ -16,6 +16,7 @@ rmd_files: [
   "kylling.Rmd",
   "specialiteterne.Rmd",
   "rester.Rmd",
+  "desserterne.Rmd",
   "diverse.Rmd"]
 delete_merged_file: true 
 output_dir: "docs"
