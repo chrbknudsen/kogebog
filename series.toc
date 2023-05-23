@@ -66,3 +66,4 @@
 \contentsline {section}{\numberline {15.15}1000 øers dressing}{43}{section.15.15}%
 \contentsline {section}{\numberline {15.16}kartoffelfrikadeller}{44}{section.15.16}%
 \contentsline {section}{\numberline {15.17}Svampe omelet}{44}{section.15.17}%
+\contentsline {section}{\numberline {15.18}Bacon medisterpølse i airfryer}{44}{section.15.18}%
