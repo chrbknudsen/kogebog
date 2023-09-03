@@ -340,3 +340,4 @@ Mums
 ## bagselv leverpostej i airfryer
 Det forlyder - men er ej testet, at den bages direkte fra
 frost ved 170 grader i 40 minutter.
+Det tester vi så!
