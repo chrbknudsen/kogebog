@@ -17,6 +17,7 @@ rmd_files: [
   "specialiteterne.Rmd",
   "rester.Rmd",
   "desserterne.Rmd",
-  "diverse.Rmd"]
+  "diverse.Rmd",
+  "etcetera.Rmd"]
 delete_merged_file: true 
 output_dir: "docs"
