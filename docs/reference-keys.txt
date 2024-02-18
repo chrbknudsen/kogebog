@@ -21,12 +21,8 @@ italiensk-pølsebix
 standard-pastabix
 onepot-pasta
 putanesca
-luderpasta
-ingredienser
 aglio-et-olio
-ingredienser-1
 one-pot-lasagne
-anekdoten
 pasta-med-broccoli
 ko
 sovsene
@@ -36,6 +32,8 @@ steaksovs
 cherry-tomat-sovs
 pebersovs
 røget-svampesauce
+bistro-sovs
+portvinssauce
 balsamico-sovs
 kondimenterne
 syltede-champignon
