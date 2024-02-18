@@ -8,7 +8,7 @@ rmd_files: [
   "vildt.Rmd",
   "lam.Rmd",
   "kylling.Rmd",
-  "marmeladerne.Rmd",
+  "rmds/marmeladerne.Rmd",
   "pasta.Rmd",
   "ko.Rmd",
   "sovsene.Rmd",
