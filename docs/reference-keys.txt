@@ -9,6 +9,7 @@ lammekølle
 retter-med-kylling
 kyllingetærte
 hverdagskylling-med-kremede-svampe
+onepot-chicken-rice
 pollo-orzo
 preservationerne
 æblesmør
@@ -72,4 +73,3 @@ bacon-medisterpølse-i-airfryer
 bagselv-leverpostej-i-airfryer
 lidt-mere-teoretisk
 svampe
-onepot-chicken-rice
