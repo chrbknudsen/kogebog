@@ -4,20 +4,20 @@ language:
     chapter_name: "Chapter "
 rmd_files: [
   "index.Rmd",
-  "gris.Rmd",
-  "vildt.Rmd",
-  "lam.Rmd",
-  "kylling.Rmd",
+  "rmds/gris.Rmd",
+  "rmds/vildt.Rmd",
+  "rmds/lam.Rmd",
+  "rmds/kylling.Rmd",
   "rmds/marmeladerne.Rmd",
-  "pasta.Rmd",
-  "ko.Rmd",
-  "sovsene.Rmd",
-  "kondimenterne.Rmd",
-  "kylling.Rmd",
-  "specialiteterne.Rmd",
-  "rester.Rmd",
+  "rmds/pasta.Rmd",
+  "rmds/ko.Rmd",
+  "rmds/sovsene.Rmd",
+  "rmds/kondimenterne.Rmd",
+  "rmds/kylling.Rmd",
+  "rmds/specialiteterne.Rmd",
+  "rmds/rester.Rmd",
   "rmds/desserterne.Rmd",
-  "diverse.Rmd",
-  "etcetera.Rmd"]
+  "rmds/diverse.Rmd",
+  "rmds/etcetera.Rmd"]
 delete_merged_file: true 
 output_dir: "docs"
