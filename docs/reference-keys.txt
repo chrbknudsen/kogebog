@@ -1,5 +1,4 @@
 welcome
-learn-all-about-bookdown
 gris
 vildt
 kanin
@@ -71,3 +70,4 @@ bacon-medisterpølse-i-airfryer
 bagselv-leverpostej-i-airfryer
 lidt-mere-teoretisk
 svampe
+omregninger-og-sådan

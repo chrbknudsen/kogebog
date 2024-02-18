@@ -9,7 +9,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: openscapes/series
-description: "A mini bookdown tutorial book on how to make bookdown books."
+description: "Nusses samling af opskrifter og sådan"
 ---
 
 # Welcome {#welcome}
@@ -19,9 +19,3 @@ Dette er min kogebog. Nusses samling af opskrifter - dimensioneret efter os to d
 
 
 `r knitr::include_graphics("images/DALL·E-dieselpunk.png")`
-
-
-
-## Learn all about Bookdown
-
-The best way to learn more about bookdown is from Yihui Xie himself. You can read his book [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/) or watch his webinar [introducing bookdown](https://www.rstudio.com/resources/webinars/introducing-bookdown/).
