@@ -8,7 +8,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: openscapes/series
+github-repo: chrbknudsen/kogebog
 description: "Nusses samling af opskrifter og sådan"
 ---
 
