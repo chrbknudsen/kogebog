@@ -17,6 +17,7 @@ rmd_files: [
   "rmds/specialiteterne.Rmd",
   "rmds/rester.Rmd",
   "rmds/desserterne.Rmd",
+  "rmds/hapserne.Rmd",
   "rmds/diverse.Rmd",
   "rmds/etcetera.Rmd",
   "rmds/omregninger.Rmd"]
