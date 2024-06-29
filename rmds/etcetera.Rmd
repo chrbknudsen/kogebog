@@ -17,7 +17,7 @@ nukleinsyren guanylat. Og så er der fuld skrue på umamismagen.
 
 Svampe er ikke grøntsager:
 
-![](../images/svampe.webp)
+![](images/svampe.png)
 
 Men de har især særligt stærke cellevægge. De indeholder kitin, der ikke er
 vandopløseligt, i modsætning til planters cellevægge, der bruger pektin i samme

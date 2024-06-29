@@ -4,6 +4,7 @@ language:
     chapter_name: "Chapter "
 rmd_files: [
   "index.Rmd",
+  "rmds/bagning.Rmd",
   "rmds/gris.Rmd",
   "rmds/vildt.Rmd",
   "rmds/lam.Rmd",
