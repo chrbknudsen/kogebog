@@ -5,15 +5,15 @@
 Generelt bruger vi 4 dl risotto ris når der laves risotto. 
 120 gram passer også fint i denne opskrift.
 
-25 gram røget svampe garum - eller svampe bouillon
-200 gram svampe - skåret i skiver
-15 gram olivenolie
-15 gram smør
-1 lille løg
-120 gram arborio ris
-10-15 tråde saffran
-600 ml vand
-2 håndfulde revet parmasanost
+* 25 gram røget svampe garum - eller svampe bouillon
+* 200 gram svampe - skåret i skiver
+* 15 gram olivenolie
+* 15 gram smør
+* 1 lille løg
+* 120 gram arborio ris
+* 10-15 tråde saffran
+* 600 ml vand
+* 2 håndfulde revet parmasanost
 
 Karameliser svampene i olie.
 Tilsæt smør og 5 gram garum.
@@ -36,102 +36,62 @@ grønt på toppen, og server.
 
 ## chachouka
 
-5 peberfrugter (men det afhænger selvfølgelig af størrelsen) er passende.
-6 æg er fint.
-løg
-spidskommen
-paprika (lad nu være med at komme det i fra starten)
-safran
-en dåse hakkede tomater
-salt og peber
-Hvidløg
+* 5 peberfrugter (men det afhænger selvfølgelig af størrelsen) er passende.
+* 6 æg er fint.
+* løg
+* spidskommen
+* paprika (lad nu være med at komme det i fra starten)
+* safran
+* en dåse hakkede tomater
+* salt og peber
+* Hvidløg
 
 
 ## Dahl
-210 gram røde linser
-2 spsk revet ingefær
-4 finthakkede hvidløg
-3 tsk karry (medium stærk)
-1 spsk spidskommen
-0,50 spsk stødt koriander
-0,50 tsk stødt kardemomme
-0,50 tsk chiliflager
-6 dl grøntsagsbouillon
-200 g røde linser
-2 dåser hakkede tomater
-2 spsk olivenolie
 
-
-
-## pastasalat til madpakke
-
-Vi skal have mængderne på plads her!
-
-Derudover, der skal 10 gram salt i hver liter vand.
-300 gram tør discount fusili vejer 
-681 gram kogt.
-
-
-
-Så skal vi have styr på hvor meget der skal til for at gøre det ud for frokost. Og så 
-finde ud af hvor meget det fylder - så beholder størrelse kan justeres.
-
-Testet 21. januar.
-
-2229 gram pastasalt, inklusive den hvide margretheskål.
-
-Så spiste vi begge to - vi fik nok. Og skålen, inklusive
-resten af salaten vejede 1359 gram
-
-Resten af pastasalaten vejede - uden emballage 625 gram.
-
-Salaten blev lavet af ovenstående 681 gram pasta, 240 gram 
-majs, 200 gram salattern og 250 gram tomater. Hertil rigelige 
-mængder thousand island dressing
-
-Vi fik med andre ord 870 gram pastasalat i alt, eller 435 gram hver.
-
-Og ialt blev der produceret 
-2229-1359 = 870, det vi spiste.
-+ 625 gram, det der var til rest.
-Så i grove træk får vi 1495 gram pastasalat af at koge 300 gram 
-tør pasta. Hvis vi regner med 500 gram færdig pastasalt, 
-går der derfor 100 gram tør pasta til en frokostportion pastasalat
-
-
-Vi kan yderligere notere, at et 3/4 liters fido sylteglas med 
-patentlukning, uden de store problemer holder ca. 500 gram 
-pastasalat. Det er nu min madpakkebeholder!
+* 210 gram røde linser
+* 2 spsk revet ingefær
+* 4 finthakkede hvidløg
+* 3 tsk karry (medium stærk)
+* 1 spsk spidskommen
+* 0,50 spsk stødt koriander
+* 0,50 tsk stødt kardemomme
+* 0,50 tsk chiliflager
+* 6 dl grøntsagsbouillon
+* 200 g røde linser
+* 2 dåser hakkede tomater
+* 2 spsk olivenolie
 
 
 ## Søren Davidsens Tomatsuppe
 
-Som egentlig er fra The Guardian, og nok snarere er Nigel Slaters tomatsuppe.
+Som egentlig er fra The Guardian.
 Men så dør referencen til What We do in the shadows...
 
 Suppen:
 
-2 auberginer (hvis de er små. 550 gram)
-350 gram cherry tomater
-2 store røde chilier
-100 ml olivenolie
-2½ spsk tomatpasta
-salt og peber
-1 liter kyllinge fond
-1 spsk lemon juice
-Brød croutoner.
-Frisk oregano og persille. Man kan godt klare sig med frossen persille.
+* 2 auberginer (hvis de er små. 550 gram)
+* 350 gram cherry tomater
+* 2 store røde chilier
+* 100 ml olivenolie
+* 2½ spsk tomatpasta
+* salt og peber
+* 1 liter kyllinge fond
+* 1 spsk lemon juice
+* Brød croutoner.
+* Frisk oregano og persille. Man kan godt klare sig med frossen persille.
 
 Aiolien
 
-5 fed hvidløg - finthakket (meget)
-8 ansjoser (fileter) - finthakket (meget)
-90 ml olivenolie
-50 ml solsikkeolie
-1 æggeblomme
-1 spsk lemon juice
+* 5 fed hvidløg - finthakket (meget)
+* 8 ansjoser (fileter) - finthakket (meget)
+* 90 ml olivenolie
+* 50 ml solsikkeolie
+* 1 æggeblomme
+* 1 spsk lemon juice
 
-Hæld hvidløg, ansjoser og olivenolie i en gryde. Brug en der er stor nok til
+Hæld hvidløg, ansjoser og olivenolie i en gryde. Det er stærkt fristende at tage
+en lille kasserolle. Brug i stedet en der er stor nok til
 den samlede mængde suppe, det sparer på opvasken.
 
 Lad det simre ved middel varme i 12 minutter. Pas på at hvidløgene ikke brænder.

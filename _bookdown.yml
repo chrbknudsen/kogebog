@@ -7,7 +7,6 @@ rmd_files: [
   "rmds/gris.Rmd",
   "rmds/kylling.Rmd",
   "rmds/kylling.Rmd",
-
   "rmds/ko.Rmd",
   "rmds/lam.Rmd",
   "rmds/vildt.Rmd",
@@ -18,11 +17,8 @@ rmd_files: [
   "rmds/specialiteterne.Rmd",
   "rmds/rester.Rmd",
   "rmds/hapserne.Rmd",
-
   "rmds/desserterne.Rmd",
-
   "rmds/bagning.Rmd",
-
   "rmds/marmeladerne.Rmd",
   "rmds/diverse.Rmd",
   "rmds/teori.Rmd",
