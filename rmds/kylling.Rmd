@@ -80,6 +80,9 @@ til den tykner. Smag til med salt, peber og sennep.
 * Saml - kylling overhældes med svamep. Vi serverer med ris.
 
 ## Onepot chicken & rice
+
+
+
 Fra noma
 
 * 60 g olie
@@ -100,9 +103,10 @@ Fra noma
 * 200 g mayonaise
 * 1 fed hvidløg - revet.
 
-sautepande - olie varmes op unmder middel varme. krydr kyllingerne med generøse mængder 
-salt. Når olien simrer, brunes kyllingen. til den er mørkebrun og sprød. ca. 4 minutter.
-fjern kyllingerne fra panden. Skru ned til lav varme.
+Olie varmes op i sautepanden ved middel varme. Krydr kyllingerne med generøse 
+mængder salt. Når olien simrer, brunes kyllingen på skindsiden (men kun skindsiden),
+til den er mørkebrun og sprød. Det skal tage ca. 4 minutter.
+Fjern kyllingerne fra panden. Skru ned til lav varme.
 tilsæt løg og hvidløg. Steg til løgene er klare.
 rør tomatpastaen i og steg ca. 5 minutter til tingene er rustent brune.
 Tilsæt bouillon, salt, røget svampe garum, parpirka og miso. Øg temperatren til høj. Rør for at 
@@ -124,6 +128,8 @@ Top yderligere med hvidløgsmayo.
 
 ## Pollo orzo
 One pot. Og relativt hurtig.
+
+![orzo](images/orzo.png)
 
 Orzo er de der små rislignende pastating. 
 
