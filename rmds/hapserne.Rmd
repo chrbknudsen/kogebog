@@ -1,5 +1,37 @@
 # Hapsere, tapas med videre.
 
+```{r}
+library(ggplot2)
+generate_circle <- function(center = c(0, 0), radius = 1, n_points = 100) {
+  theta <- seq(0, 2 * pi, length.out = n_points)
+  data.frame(
+    x = center[1] + radius * cos(theta),
+    y = center[2] + radius * sin(theta)
+  )
+}
+circle_data <- generate_circle(center = c(0, 0), radius = 1)
+
+# Generer data til linjerne
+generate_lines <- function(center = c(0, 0), radius = 1.5) {
+  angles <- seq(0, 2 * pi, length.out = 9)[-9] # Otte vinkler (0, π/4, π/2, ..., 7π/4)
+  data.frame(
+    x = rep(center[1], each = length(angles)),
+    y = rep(center[2], each = length(angles)),
+    xend = center[1] + radius * cos(angles),
+    yend = center[2] + radius * sin(angles)
+  )
+}
+line_data <- generate_lines(center = c(0, 0), radius = 1)
+
+
+ggplot() +
+  geom_path(data = circle_data, aes(x = x, y = y), size = 1) +
+  geom_segment(data = line_data, aes(x = x, y = y, xend = xend, yend = yend), linetype = "dashed") +
+  coord_equal() +
+  theme_minimal()
+```
+
+
 
 ## Toskanske bønner
 
