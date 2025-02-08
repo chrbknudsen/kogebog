@@ -23,7 +23,7 @@
 <meta name="author" content="Christian Knudsen" />
 
 
-<meta name="date" content="2025-01-19" />
+<meta name="date" content="2025-02-08" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -54,70 +54,6 @@
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 
 
-<style type="text/css">
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-    color: #aaaaaa;
-  }
-pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
-code span.al { color: #ff0000; font-weight: bold; } /* Alert */
-code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
-code span.at { color: #7d9029; } /* Attribute */
-code span.bn { color: #40a070; } /* BaseN */
-code span.bu { color: #008000; } /* BuiltIn */
-code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
-code span.ch { color: #4070a0; } /* Char */
-code span.cn { color: #880000; } /* Constant */
-code span.co { color: #60a0b0; font-style: italic; } /* Comment */
-code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
-code span.do { color: #ba2121; font-style: italic; } /* Documentation */
-code span.dt { color: #902000; } /* DataType */
-code span.dv { color: #40a070; } /* DecVal */
-code span.er { color: #ff0000; font-weight: bold; } /* Error */
-code span.ex { } /* Extension */
-code span.fl { color: #40a070; } /* Float */
-code span.fu { color: #06287e; } /* Function */
-code span.im { color: #008000; font-weight: bold; } /* Import */
-code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
-code span.kw { color: #007020; font-weight: bold; } /* Keyword */
-code span.op { color: #666666; } /* Operator */
-code span.ot { color: #007020; } /* Other */
-code span.pp { color: #bc7a00; } /* Preprocessor */
-code span.sc { color: #4070a0; } /* SpecialChar */
-code span.ss { color: #bb6688; } /* SpecialString */
-code span.st { color: #4070a0; } /* String */
-code span.va { color: #19177c; } /* Variable */
-code span.vs { color: #4070a0; } /* VerbatimString */
-code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
-</style>
 
 <style type="text/css">
   
@@ -143,6 +79,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="2" data-path="gris.html"><a href="gris.html"><i class="fa fa-check"></i><b>2</b> Gris</a>
 <ul>
 <li class="chapter" data-level="2.1" data-path="gris.html"><a href="gris.html#bacon-medisterpølse-i-airfryer"><i class="fa fa-check"></i><b>2.1</b> Bacon medisterpølse i airfryer</a></li>
+<li class="chapter" data-level="2.2" data-path="gris.html"><a href="gris.html#behåret-biker-pølse"><i class="fa fa-check"></i><b>2.2</b> Behåret Biker pølse</a></li>
 </ul></li>
 <li class="chapter" data-level="3" data-path="retter-med-kylling.html"><a href="retter-med-kylling.html"><i class="fa fa-check"></i><b>3</b> Retter med kylling</a>
 <ul>
@@ -293,40 +230,6 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
             <section class="normal" id="section-">
 <div id="hapsere-tapas-med-videre." class="section level1 hasAnchor" number="13">
 <h1><span class="header-section-number">Chapter 13</span> Hapsere, tapas med videre.<a href="hapsere-tapas-med-videre..html#hapsere-tapas-med-videre." class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="hapsere-tapas-med-videre..html#cb1-1" tabindex="-1"></a><span class="fu">library</span>(ggplot2)</span>
-<span id="cb1-2"><a href="hapsere-tapas-med-videre..html#cb1-2" tabindex="-1"></a>generate_circle <span class="ot">&lt;-</span> <span class="cf">function</span>(<span class="at">center =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">0</span>), <span class="at">radius =</span> <span class="dv">1</span>, <span class="at">n_points =</span> <span class="dv">100</span>) {</span>
-<span id="cb1-3"><a href="hapsere-tapas-med-videre..html#cb1-3" tabindex="-1"></a>  theta <span class="ot">&lt;-</span> <span class="fu">seq</span>(<span class="dv">0</span>, <span class="dv">2</span> <span class="sc">*</span> pi, <span class="at">length.out =</span> n_points)</span>
-<span id="cb1-4"><a href="hapsere-tapas-med-videre..html#cb1-4" tabindex="-1"></a>  <span class="fu">data.frame</span>(</span>
-<span id="cb1-5"><a href="hapsere-tapas-med-videre..html#cb1-5" tabindex="-1"></a>    <span class="at">x =</span> center[<span class="dv">1</span>] <span class="sc">+</span> radius <span class="sc">*</span> <span class="fu">cos</span>(theta),</span>
-<span id="cb1-6"><a href="hapsere-tapas-med-videre..html#cb1-6" tabindex="-1"></a>    <span class="at">y =</span> center[<span class="dv">2</span>] <span class="sc">+</span> radius <span class="sc">*</span> <span class="fu">sin</span>(theta)</span>
-<span id="cb1-7"><a href="hapsere-tapas-med-videre..html#cb1-7" tabindex="-1"></a>  )</span>
-<span id="cb1-8"><a href="hapsere-tapas-med-videre..html#cb1-8" tabindex="-1"></a>}</span>
-<span id="cb1-9"><a href="hapsere-tapas-med-videre..html#cb1-9" tabindex="-1"></a>circle_data <span class="ot">&lt;-</span> <span class="fu">generate_circle</span>(<span class="at">center =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">0</span>), <span class="at">radius =</span> <span class="dv">1</span>)</span>
-<span id="cb1-10"><a href="hapsere-tapas-med-videre..html#cb1-10" tabindex="-1"></a></span>
-<span id="cb1-11"><a href="hapsere-tapas-med-videre..html#cb1-11" tabindex="-1"></a><span class="co"># Generer data til linjerne</span></span>
-<span id="cb1-12"><a href="hapsere-tapas-med-videre..html#cb1-12" tabindex="-1"></a>generate_lines <span class="ot">&lt;-</span> <span class="cf">function</span>(<span class="at">center =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">0</span>), <span class="at">radius =</span> <span class="fl">1.5</span>) {</span>
-<span id="cb1-13"><a href="hapsere-tapas-med-videre..html#cb1-13" tabindex="-1"></a>  angles <span class="ot">&lt;-</span> <span class="fu">seq</span>(<span class="dv">0</span>, <span class="dv">2</span> <span class="sc">*</span> pi, <span class="at">length.out =</span> <span class="dv">9</span>)[<span class="sc">-</span><span class="dv">9</span>] <span class="co"># Otte vinkler (0, π/4, π/2, ..., 7π/4)</span></span>
-<span id="cb1-14"><a href="hapsere-tapas-med-videre..html#cb1-14" tabindex="-1"></a>  <span class="fu">data.frame</span>(</span>
-<span id="cb1-15"><a href="hapsere-tapas-med-videre..html#cb1-15" tabindex="-1"></a>    <span class="at">x =</span> <span class="fu">rep</span>(center[<span class="dv">1</span>], <span class="at">each =</span> <span class="fu">length</span>(angles)),</span>
-<span id="cb1-16"><a href="hapsere-tapas-med-videre..html#cb1-16" tabindex="-1"></a>    <span class="at">y =</span> <span class="fu">rep</span>(center[<span class="dv">2</span>], <span class="at">each =</span> <span class="fu">length</span>(angles)),</span>
-<span id="cb1-17"><a href="hapsere-tapas-med-videre..html#cb1-17" tabindex="-1"></a>    <span class="at">xend =</span> center[<span class="dv">1</span>] <span class="sc">+</span> radius <span class="sc">*</span> <span class="fu">cos</span>(angles),</span>
-<span id="cb1-18"><a href="hapsere-tapas-med-videre..html#cb1-18" tabindex="-1"></a>    <span class="at">yend =</span> center[<span class="dv">2</span>] <span class="sc">+</span> radius <span class="sc">*</span> <span class="fu">sin</span>(angles)</span>
-<span id="cb1-19"><a href="hapsere-tapas-med-videre..html#cb1-19" tabindex="-1"></a>  )</span>
-<span id="cb1-20"><a href="hapsere-tapas-med-videre..html#cb1-20" tabindex="-1"></a>}</span>
-<span id="cb1-21"><a href="hapsere-tapas-med-videre..html#cb1-21" tabindex="-1"></a>line_data <span class="ot">&lt;-</span> <span class="fu">generate_lines</span>(<span class="at">center =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">0</span>), <span class="at">radius =</span> <span class="dv">1</span>)</span>
-<span id="cb1-22"><a href="hapsere-tapas-med-videre..html#cb1-22" tabindex="-1"></a></span>
-<span id="cb1-23"><a href="hapsere-tapas-med-videre..html#cb1-23" tabindex="-1"></a></span>
-<span id="cb1-24"><a href="hapsere-tapas-med-videre..html#cb1-24" tabindex="-1"></a><span class="fu">ggplot</span>() <span class="sc">+</span></span>
-<span id="cb1-25"><a href="hapsere-tapas-med-videre..html#cb1-25" tabindex="-1"></a>  <span class="fu">geom_path</span>(<span class="at">data =</span> circle_data, <span class="fu">aes</span>(<span class="at">x =</span> x, <span class="at">y =</span> y), <span class="at">size =</span> <span class="dv">1</span>) <span class="sc">+</span></span>
-<span id="cb1-26"><a href="hapsere-tapas-med-videre..html#cb1-26" tabindex="-1"></a>  <span class="fu">geom_segment</span>(<span class="at">data =</span> line_data, <span class="fu">aes</span>(<span class="at">x =</span> x, <span class="at">y =</span> y, <span class="at">xend =</span> xend, <span class="at">yend =</span> yend), <span class="at">linetype =</span> <span class="st">&quot;dashed&quot;</span>) <span class="sc">+</span></span>
-<span id="cb1-27"><a href="hapsere-tapas-med-videre..html#cb1-27" tabindex="-1"></a>  <span class="fu">coord_equal</span>() <span class="sc">+</span></span>
-<span id="cb1-28"><a href="hapsere-tapas-med-videre..html#cb1-28" tabindex="-1"></a>  <span class="fu">theme_minimal</span>()</span></code></pre></div>
-<pre><code>## Warning: Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
-## ℹ Please use `linewidth` instead.
-## This warning is displayed once every 8 hours.
-## Call `lifecycle::last_lifecycle_warnings()` to see where this warning was
-## generated.</code></pre>
-<p><img src="Kogebog_files/figure-html/unnamed-chunk-1-2.png" width="672" /></p>
 <div id="toskanske-bønner" class="section level2 hasAnchor" number="13.1">
 <h2><span class="header-section-number">13.1</span> Toskanske bønner<a href="hapsere-tapas-med-videre..html#toskanske-bønner" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Jeg har aldrig forstået hvorfor de der hvide bønner skulle kunne bruges til
@@ -355,43 +258,45 @@ simre til pølserne er færdige. Server med brød.
 </div>
 <div id="gougeres" class="section level2 hasAnchor" number="13.2">
 <h2><span class="header-section-number">13.2</span> Gougeres<a href="hapsere-tapas-med-videre..html#gougeres" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Giver to fulde bageplader!
-100 g hvedemel
-90 g smør
-1 dl vand
-1 dl sødmælk
-1⁄2 tsk. groft salt
-1⁄2 tsk. sukker
-3 store æg L/XL, sammenpiskede (ca. 180 g)
-100 g revet gruyère ELLER 150 g frisk gedeost samt kværnet sort peber
-1. Forvarm ovnen til 200° uden varmluft. Beklæd to bageplader med bagepapir.
-2. Sigt melet – gerne ned på et stykke bagepapir, da det så kan hældes hurtigt i gryden.
-3. Smelt smørret sammen med vand, mælk, salt og sukker i en gryde ved moderat varme. Når smørret er
+<p>Giver to fulde bageplader!</p>
+<ul>
+<li>100 g hvedemel</li>
+<li>90 g smør</li>
+<li>1 dl vand</li>
+<li>1 dl sødmælk</li>
+<li>1⁄2 tsk. groft salt</li>
+<li>1⁄2 tsk. sukker</li>
+<li>3 store æg L/XL, sammenpiskede (ca. 180 g)</li>
+<li>100 g revet gruyère ELLER 150 g frisk gedeost samt kværnet sort peber</li>
+</ul>
+<ol style="list-style-type: decimal">
+<li><p>Forvarm ovnen til 200° uden varmluft. Beklæd to bageplader med bagepapir.</p></li>
+<li><p>Sigt melet – gerne ned på et stykke bagepapir, da det så kan hældes hurtigt i gryden.</p></li>
+<li><p>Smelt smørret sammen med vand, mælk, salt og sukker i en gryde ved moderat varme. Når smørret er
 smeltet, bringes det hele i kog ved høj varme og tages straks af varmen. Hæld det sigtede mel i gryden,
-og rør med en træske, indtil det bliver til en fast, blød dej uden klumper, der slipper gryden.
-4. Sæt gryden tilbage på kogepladen på svag varme for at ’riste’ dejen i et par minutter. Rør forsigtigt i
+og rør med en træske, indtil det bliver til en fast, blød dej uden klumper, der slipper gryden.</p></li>
+<li><p>Sæt gryden tilbage på kogepladen på svag varme for at ’riste’ dejen i et par minutter. Rør forsigtigt i
 dejen mens den ristes, og undlad at skrabe i bunden af gryden. Der vil sætte sig et meget tyndt lag dej,
-som ikke skal blandes sammen med resten af dejen igen.
-5. Hæld dejen i en skål, og lad den køle lidt af (i ca. 5 minutter). Hvis du bruger røremaskine, kan du
+som ikke skal blandes sammen med resten af dejen igen.</p></li>
+<li><p>Hæld dejen i en skål, og lad den køle lidt af (i ca. 5 minutter). Hvis du bruger røremaskine, kan du
 med fordel hælde dejen i røreskålen og lade den køre rundt med ’det flade piskeris’ på lav til
-mellemhastighed. På den måde køles dejen hurtigt.
-6. Tilsæt de sammenpiskede æg ad tre omgange, og rør energisk efter gang for at få massen homogen.
+mellemhastighed. På den måde køles dejen hurtigt.</p></li>
+<li><p>Tilsæt de sammenpiskede æg ad tre omgange, og rør energisk efter gang for at få massen homogen.
 På røremaskine røres fortsat med lav til mellemhastighed med det flade piskeris. Når æggene tilsættes,
-vil dejen først se ud som om den skiller, men vil samle sig igen efter omrøring.</p>
-<ol start="7" style="list-style-type: decimal">
-<li>Fortsæt med at røre i dejen i nogle minutter, så den bliver godt elastisk. Dejen er klar når den er glat
-og skinnende.</li>
-<li>Tilsæt revet gruyère eller snuldret gedeost (samt evt. peber eller krydderurter).</li>
-<li>Overfør dejen til bagepladen med sprøjtepose, skeer eller en isske. Sæt små klatter på størrelse med
-en femmer til hors d’oeuvre eller store, hvis de skal spises som mellemmåltid.</li>
-<li>Lav et kryds (gittermønster) på toppen af hver gougère med en gaffel dyppet i vand, så hæver de
-flottere i ovnen.</li>
-<li>Sæt bagepladen i den varme ovn, og skru så ned til 170°. Lad dem bage i mindst 20 minutter uden at
+vil dejen først se ud som om den skiller, men vil samle sig igen efter omrøring.</p></li>
+<li><p>Fortsæt med at røre i dejen i nogle minutter, så den bliver godt elastisk. Dejen er klar når den er glat
+og skinnende.</p></li>
+<li><p>Tilsæt revet gruyère eller snuldret gedeost (samt evt. peber eller krydderurter).</p></li>
+<li><p>Overfør dejen til bagepladen med sprøjtepose, skeer eller en isske. Sæt små klatter på størrelse med
+en femmer til hors d’oeuvre eller store, hvis de skal spises som mellemmåltid.</p></li>
+<li><p>Lav et kryds (gittermønster) på toppen af hver gougère med en gaffel dyppet i vand, så hæver de
+flottere i ovnen.</p></li>
+<li><p>Sæt bagepladen i den varme ovn, og skru så ned til 170°. Lad dem bage i mindst 20 minutter uden at
 åbne ovndøren. Bagetiden afhænger af størrelsen. De er færdige, når de er jævnt lysebrune. De må
 gerne bages lidt mindre end vandbakkelser, som skal fyldes med creme. De er nemlig lækrest, hvis de er
 svampede indeni.
 TIP: Sæt gerne en ekstra bageplade i ovnen under pladen med vandbakkelser, så de ikke bliver brændte
-i bunden.</li>
+i bunden.</p></li>
 </ol>
 </div>
 <div id="hummus" class="section level2 hasAnchor" number="13.3">
