@@ -5,7 +5,7 @@ De klassiske franske modersaucer, eller sovse hvis du sørger for at lave nok af
 
 Der er fem:
 
-*Bechamel Der består af mælk og roux (en opbagning...)
+* Bechamel Der består af mælk og roux (en opbagning...)
 * Veloute Der består af fond og roux
 * Espagnole Brun fond, og en brun roux (du lader din opbagning brænde lidt på)
 * Tomat Der består af tomater og grøntsagspure
@@ -13,72 +13,47 @@ Der er fem:
 
 I hvert fald når vi er i det franske køkken.
 
-Bechamellen kan blive til, når vi tilsætter:
+### Bechamellen kan blive til, når vi tilsætter:
 
-Cream
-Fløde og citronsaft
-Cheddar
-(Cheddar)ost, worchestershire sovs og sennep
-Mornay
-Gruyere, fløde og smør
-Nantua
-Fløde, smør, paprika, tern af skaldyr
-Soubise
-(søde) tern af løg, der har simret og sigtet
+* Cream : Fløde og citronsaft
+* Cheddar : (Cheddar)ost, worchestershire sovs og sennep
+* Mornay : Gruyere, fløde og smør
+* Nantua : Fløde, smør, paprika, tern af skaldyr
+* Soubise (søde) tern af løg, der har simret og sigtet
 
-Velouteen kan blive til:
+### Velouteen kan blive til:
 
-Bercy
-Fiskefond, skalotter, hvidvin og smør
-Allemande
-Kalvefond, æggeblommer, fløde og citron
-Supreme
-Kyllingefond, svampe og fløde
-Aurora
-Allemande, tilsat tomatpasta og smør
-Cardinal
-fiskefond, fløde, cayennepeber og hummer
+* Bercy: Fiskefond, skalotter, hvidvin og smør
+* Allemande: Kalvefond, æggeblommer, fløde og citron
+* Supreme: Kyllingefond, svampe og fløde
+* Aurora: Allemande, tilsat tomatpasta og smør
+* Cardinal: fiskefond, fløde, cayennepeber og hummer
 
-Espagnole kan blive til:
+### Espagnole kan blive til:
 
-Chausseur
-Svampe, skalotter, hvidvin og tomater
-Chateubriand
-Hvidvin, skalotter, citron og estragon
-Bordelaise
-Rødvin, skalotter, laurbærblade og timian
-Robert
-Løg, sennep, sukker og smør
-Duxelle
-Løg, svampe, hvidvin, tomat
+* Chausseur: Svampe, skalotter, hvidvin og tomater
+* Chateubriand: Hvidvin, skalotter, citron og estragon
+* Bordelaise: Rødvin, skalotter, laurbærblade og timian
+* Robert: Løg, sennep, sukker og smør
+* Duxelle: Løg, svampe, hvidvin, tomat
 
-Tomaten:
+### Tomaten:
 
-Creole
-Løg, selleri, hvidløg, peber, timian og caynnepeber
-Spansk
-Creole + svampe og oliven
-Milanaise
-Svampe, smør og skinke
-Neapolitan
-Hvidløg, oliven, ansjoser og kapers
-Bolognese
-Mire Poix, hakket kød, rødvin og oregano
+* Creole: Løg, selleri, hvidløg, peber, timian og caynnepeber
+* Spansk: Creole + svampe og oliven
+* Milanaise: Svampe, smør og skinke
+* Neapolitan: Hvidløg, oliven, ansjoser og kapers
+* Bolognese: Mire Poix, hakket kød, rødvin og oregano
 
-Hollandaise
+### Hollandaise
 
-Bearnaise
-Skalotter, estragon, reduceret i eddike
-Mousseline
-Flødeskum
-Maltaise
-Appelsinsaft og -skal
-Grimrod
-Safran
-Choron
-Bearnaise, tomatpasta og fløde
+* Bearnaise: Skalotter, estragon, reduceret i eddike
+* Mousseline: Flødeskum
+* Maltaise: Appelsinsaft og -skal
+* Grimrod: Safran
+* Choron: Bearnaise, tomatpasta og fløde
 
-![sovsene](images/saucer.jpg)
+![sovsene](../images/saucer.jpg)
 
 Den skal laves til noget egen grafik.
 
