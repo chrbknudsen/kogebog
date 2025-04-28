@@ -63,10 +63,10 @@ Den skal laves til noget egen grafik.
 
 ### steaksovs:
 
-1/4	cup sennepspulver, Colmans - det er så også den eneste jeg normal kan finde
-2	spsk varmt vand
-2	spsk risvins eddike - vi prøver nok også med hvidvinseddike
-1/4	cup soyasovs
+* 1/4	cup sennepspulver, Colmans - det er så også den eneste jeg normal kan finde
+* 2	spsk varmt vand
+* 2	spsk risvins eddike - vi prøver nok også med hvidvinseddike
+* 1/4	cup soyasovs
 
 
 Bland sennepspulver med vandet, og lad det sætte sig et par minutter.
@@ -77,7 +77,7 @@ Bum. Den skulle blive bedre hvis den får lov at stå på køl mindst en time.
 
 Går også godt med andet - eg fisk.
 
-### cherry tomat sovs
+### Cherry tomat sovs
 
 Fra Noma. Hvor de kalder den for "Faster than you can boil pasta cherry tomato sauce"
 
@@ -104,14 +104,14 @@ Serveres med 200-300 gram pasta (altså før det koges)
 Der skal udvikles yderligere. 
 Den foreskrev oprindeligt 50 gram peberkorn. Og det var for meget.
 
-2 små skaloteløg
-olivenolie
-25 gram syltede grønne peberkorn
-2 teskeer sennep
-7 dl okseboullion
-1 sjat whiskey (prøv evt cognac i tstedet)
-1 dl fløde
-100 gram smør
+* 2 små skaloteløg
+* olivenolie
+* 25 gram syltede grønne peberkorn
+* 2 teskeer sennep
+* 7 dl okseboullion
+* 1 sjat whiskey (prøv evt cognac i tstedet)
+* 1 dl fløde
+* 100 gram smør
 
 skalotteløg hakkes og klares i olie.
 Peberkorn (knus ca 1/4 af dem med en ske) skylles og tilsættes
@@ -127,7 +127,7 @@ Med 50 gram peberkorn, hvor intet blev mast, skulle der
 ### Røget svampesauce
 
 * 400 g blandede svampe - skåret i relativt tykke skiver (ca 5 mm)
-*olie
+* olie
 * 2 smadrede fed hvidløg
 * 30 g smør
 * 45 gram røget svampe garum
