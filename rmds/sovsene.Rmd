@@ -1,6 +1,82 @@
 # Sovsene
 
+## De klassiske modersoves
+De klassiske franske modersaucer, eller sovse hvis du sørger for at lave nok af dem.
 
+Der er fem:
+
+*Bechamel Der består af mælk og roux (en opbagning...)
+* Veloute Der består af fond og roux
+* Espagnole Brun fond, og en brun roux (du lader din opbagning brænde lidt på)
+* Tomat Der består af tomater og grøntsagspure
+* Hollandaise Smør og æggeblommer
+
+I hvert fald når vi er i det franske køkken.
+
+Bechamellen kan blive til, når vi tilsætter:
+
+Cream
+Fløde og citronsaft
+Cheddar
+(Cheddar)ost, worchestershire sovs og sennep
+Mornay
+Gruyere, fløde og smør
+Nantua
+Fløde, smør, paprika, tern af skaldyr
+Soubise
+(søde) tern af løg, der har simret og sigtet
+
+Velouteen kan blive til:
+
+Bercy
+Fiskefond, skalotter, hvidvin og smør
+Allemande
+Kalvefond, æggeblommer, fløde og citron
+Supreme
+Kyllingefond, svampe og fløde
+Aurora
+Allemande, tilsat tomatpasta og smør
+Cardinal
+fiskefond, fløde, cayennepeber og hummer
+
+Espagnole kan blive til:
+
+Chausseur
+Svampe, skalotter, hvidvin og tomater
+Chateubriand
+Hvidvin, skalotter, citron og estragon
+Bordelaise
+Rødvin, skalotter, laurbærblade og timian
+Robert
+Løg, sennep, sukker og smør
+Duxelle
+Løg, svampe, hvidvin, tomat
+
+Tomaten:
+
+Creole
+Løg, selleri, hvidløg, peber, timian og caynnepeber
+Spansk
+Creole + svampe og oliven
+Milanaise
+Svampe, smør og skinke
+Neapolitan
+Hvidløg, oliven, ansjoser og kapers
+Bolognese
+Mire Poix, hakket kød, rødvin og oregano
+
+Hollandaise
+
+Bearnaise
+Skalotter, estragon, reduceret i eddike
+Mousseline
+Flødeskum
+Maltaise
+Appelsinsaft og -skal
+Grimrod
+Safran
+Choron
+Bearnaise, tomatpasta og fløde
 
 ![sovsene](images/saucer.jpg)
 
