@@ -986,6 +986,44 @@ Og så bør man selvfølgelig spise den med raita (det indiske svar på tzatziki
 
 Det bliver nu oftere bare med ris.
 
+
+## Glaserede gulerødder
+
+Hyppigt frembragt i køkkenet. For vi skal have nogen grønsager, og skamkogte gulerødder fik vi nok af som børn. Men det bliver hurtigt for kedeligt hvis det bare er gulerødder vendt i honning. Derfor:
+
+1 kg gulerødder
+8 spsk smør
+1 dl bourbon eller whiskey
+1½ dl brun sukker. Farin eller muscovado.
+½ tsk salt
+1/4 tsk sort peber
+1/4 tsk cayenne peber
+Skræl gulerødderne, og skær dem i skiver.
+Steg dem på meget varm pande i et minuts tid i 1 spsk smør. Gerne af to omgange, afhængig af hvor stor din pande er.
+Tag gulerødderne af panden, og hæld whiskey på. Pas på, panden er varm, så det kan godt give ret kraftige alkoholtåger i køkkenet. Lad det koge et halvt minuts tid. Sænk varmen og tilsæt resten af smørret.
+Tilsæt sukker, og lad det smelte ind i smørret. Nu kommer gulerødderne tilbage på panden og røres godt ind i sovsen. Når det hele bobler, får det lov at hygge sig 5-6 minutter under låg.
+Smag til med salt, peber og cayennepeber. Lad det koge - uden låg - 5-7 minutter ekstra. Eller til du synes at glaseringen har den tykkelse du godt vil have.
+
+
+## Gulerødder med ingefær
+
+Gulerødder er sundt. Og vi spiser for få grøntsager. Så:
+
+5-6 gulerødder - afhængig af sult og størrelse.
+En stump frisk ingefær
+1 økocitron
+Salt, peber og olivenolie
+
+Skræl gulerødderne, og stiml dem med skrælleren, så du får en lang, flad strimmel. Fortsæt til der ikke er mere gulerod tilbage. Der skulle nu være en bunke tynde gulerodsstrimler op køkkenbordet.
+
+Riv lidt frisk ingefær. 5-6 riv afhængig af hvor godt du kan lide ingefær. Pres citronen.
+
+Varm olivenolien op, steg gulerodsstrimlerne et halvt minuts tid under omrøring.
+
+Tilsæt ingefær og citronsaft. Og giv den et par riv af citronskallen i tilgift. Steg videre ca 3 minutter. Smag til med salt og peber. Husk, grøntsager behøver ikke været gennemkogte - der må godt være lidt bid i dem.
+
+
+
 <!--chapter:end:rmds/green.Rmd-->
 
 # Sovsene
@@ -1340,6 +1378,61 @@ Filterkagen kan med fordel gemmes og tilsættes supper, gryderetter eller andet 
 2. Hæld sovsen direkte på rengjorte, skoldede, evt. atamonskyllede flasker.
 Den lagres ligeså længe. Der er frit valg ang. filtrering efter den har lagret.
 
+
+## WHISKEY BACON JAM
+* ½ kg bacon - i tern
+* 2 store løg, tyndt skåret
+
+ • 3 cloves garlic, minced
+ • ¼ cup brown sugar
+ • 3 tbsp whiskey or bourbon
+ • 2 tbsp maple syrup
+ • 2 tbsp balsamic vinegar
+ • 1 tsp black pepper
+ • ¼ tsp cayenne pepper
+ • ¼ cup water
+Instructions:
+ 1. In a large skillet, cook bacon over medium heat until crispy.
+ 2. Remove bacon with slotted spoon, reserving 2 tablespoons of bacon fat in pan.
+ 3. Add onions to the pan and cook over medium-low heat until caramelized, about 20-25 minutes.
+ 4. Add garlic and cook for 1 minute until fragrant.
+ 5. Return bacon to pan and add brown sugar, whiskey, maple syrup, balsamic vinegar, and seasonings.
+ 6. Add water and simmer until mixture thickens, about 10-15 minutes.
+ 7. Let cool slightly, then pulse in food processor to desired consistency.
+ 8. Allow to cool completely before transferring to jars.
+ 9. Perfect for burgers, grilled cheese sandwiches, crackers with cheese, or roasted meats.
+ 10. Store in refrigerator for up to 2 weeks.
+ 
+ 
+ 
+## Ketchup
+
+En af basisfødevarerne. Beauvais smager af tysk rasteplads.
+Heinz er bedst. Men er et amerikansk mærke, og vi er ikke fans af 
+lande der styres af psykotiske bavianer med et ketaminmisbrug.
+
+Så hvorfor ikke lave det selv?
+
+* 1 løg
+* 3 fed hvidløg
+* 1 (mad)æble
+* 1 kg tomater
+* ½ frisk, rød, mild chili
+* Olivenolie
+* 2 spsk tomatpure
+* 2 dl vand
+* 2 spsk sukker
+* 3 spsk eddike
+* Salt og peber
+
+Pil løg og hvidløg, skyl og skræl æblerne, skyl tomaterne.
+
+Rens chilien, fjern især frøene!
+
+Skær alt i grove tern. Det skal blendes, så det er ok at være doven. Steg (hvid)løg i en gyde i 3-4 minutter i en sjat olie
+
+Tilsæt æbler, tomater, tomatpure og vand, og lad det hele simre i 10-15 minutter under låg. Blend det godt igennem, og smag til med sukker, eddike, salt, peber og evt cayennepeber.
+
 <!--chapter:end:rmds/kondimenterne.Rmd-->
 
 # Specialiteterne
@@ -1623,7 +1716,18 @@ deromkring. i ovnen til kødet er tilberedt. Rdys med hakkede rødløg, hakkede
 cornichoner og server med ostesovs. 
 
 Jeg er skeptisk overfor det med det rå kød. Så jeg steger det først...
-ud mod rundingen af )
+
+
+## Salte mandler
+
+250 gram mandler
+250 ml vand
+75 g salt
+
+Kog vandet, tilsæt salt, og rør til det er opløst.
+Tag vandet af blusset, og tilsæt mandlerne.
+Lad mandlerne trække i 20 minutter.
+Sigt vandet fra, og tør mandlerne i ovnen ved 150 grader i 20 minutter. Lad mandlerne køle af i ovnen.
 
 <!--chapter:end:rmds/hapserne.Rmd-->
 
@@ -1784,6 +1888,21 @@ Når den har fået konsistens som en meget sej marengs, æltes de ristede nødde
 Så hældes hele massen i beholderen. Giv den et solidt drys flormelis ovenpå, og tryk massen jævn. Lad den hvile til dagen efter, og skær den ud i passende stykker med en brødkniv.
 
 
+## Spinatis
+
+Vist oprindeligt fra Irma.
+
+60 gram rå cashewnødder
+1 dåse kokosmælk. Ikke light!
+2 modne avokadoer
+1 moden banan
+2 store håndfulde spinat
+4 spsk sirup (agave. Ahorn hvis det er hvad jeg har)
+2 tsk vanillepulver
+
+Nødderne udblødes i 12 timer. Det faste fedt fra kokosmælken (så ikke den flydende fraktion af dåsen) samt alle andre ingredienser (også nødderne) kommes i blenderen, og blendes til blandingen er jævn og kremet.
+
+Blandingen sættes i fryseren 5-6 timer. Eller natten over. Står den hele natten er den vanskelig at arbejde med.
 
 <!--chapter:end:rmds/desserterne.Rmd-->
 
@@ -1849,6 +1968,91 @@ Margarinen - jeg ville jo nok vælge smør i stedet, smuldres i melet, sukker r�
 
 Temperaturen i ovnen skal være 200 grader. Og det tager en ti minutters tid før de er lysebrune.
 
+## Klejner - mors opskrift
+
+Denne opskrift har så ikke gået så meget i arv. Endnu. Det er godt nok mors opskrift, men hun fik den af en ældre dame hun gik til knipling med en gang i tidernes morgen. Så den er ikke helt ung. Og nu er den så gået i arv fra mor til hendes sønner. Hvis min lillebror får taget sig sammen til at producere nogen nevøer og niecer, kan den gå i arv til dem.
+
+Ingredienser:
+
+188 g sukker
+100 gram margarine
+3 æg
+2 spsk mælk
+Revet skal, og saft, af ½ citron
+400 gram mel
+
+Fremgangsmåde:
+
+Pisk sukker og margarine (jeg bruger smør i stedet) sammen.
+Pisk æg, mælk og citron i.
+Ælt herefter mel i.
+
+Rul dejen ud til ca. 3 millimeters tykkelse, kør klejnejernet over, vrid klejnerne og kog dem i palmin. Palminen skal op omkring de 180 grader. Stik enden af en tændstik i - når det begynder at syde og boble godt omkring den, er olien klar.
+
+Jeg ved ikke om man havde en anden slags mel i gamle dage, eller om æggene var specielt små. Men jeg ender altid med at skulle have en del ekstra mel i. Og det var også min mors erfaring.
+
+
+## Brune kager - mors opskrift
+Der er opskrifter der går i arv - og de er ofte knyttet til julen.
+
+Dette er familiens opskrift på brune kager. Og den er faktisk af ældre dato. Fortællingen går på at min mors fastre, altså min morfars søstre, ikke ville udlevere den til min mormor. Det var familiens hemmelige brunkageopskrift, der stammede fra min oldemor på min morfars side, fra Langeland.
+
+Meget hemmelig.
+
+Så nu lægger jeg den på internettet...
+
+½ kg margarine
+½ kg sukker
+1/4 kg sirup
+
+Varmes op til kogepunktet, og tages af varmen.
+
+15 gram potaske udrøres i 1 spsk koldt vand, og hældes i gryden. Der røres til det bruser op.
+150 gram smuttede og hakkede mandler
+50 gram sukat
+3-5 tsk. kanel
+3 tsk stødte nelliker
+2 tsk ingefær
+50 gram pomeransskal
+
+Hældes i gryden, og der røres. Når det er kølet lidt af, æltes 1 kg hvedemel i massen. Når den er blevet så koldt at man kan arbejde med den, rulles dejen ud i pølser i en tykkelse der matcher den diameter man ønsker at kagerne skal have.
+
+Rul pølserne ind i bagepapir, og læg dem i køleskabet. Roter pølserne, så de forbliver runde.
+
+Skær dem tyndt ud (brug en god skarp brødkniv), og bag dem ved 175-180 grader i 8 minutter. Mors opskrift siger 6 minutter, det holdt ikke i min ovn.
+
+Dette er den traumatiske julekage i vores familie. Dejen kan nemlig være ret drilsk, og smuldrer let når man skærer. Mange aftener har min mor stået og lagt dejstumper sammen i puslespil.
+
+Det problem havde jeg ikke helt. Jeg ved ikke om det var begynderheld, eller fordi jeg ikke holdt mig helt til opskriften. Jeg brugte smør i stedet for margarine,  baseret på en teori om at de nok ikke havde margarine på Langeland på min oldemors tid. Det kunne de nok have, hun må være født lige i slutningen af 1800-tallet, og margarinen er fra sidste halvdel af samme. Men hvis den vitterligt har gået i arv siden før hendes fødsel, så er det ret sandsynligt at den oprindeligt har brugt smør.
+
+Anyway, det gik forbløffende smertefrit. Nu skal vi bare forsøge at få dem til at holde hele vejen til juleaften.
+
+
+## Vanillekranse - mors opskrift
+
+250 g mel
+
+200 g smør
+
+150 g sukker
+
+60 g finthakkede mandler
+
+kornene fra ½ stang vanille
+
+1/2 æg
+
+
+
+
+Smørret smuldres i melet. Resten af de tørre ingredienser blandes i, og samles med ægget.
+
+Extruderes på kødhakker, med stjernehul, og samles til kranse. En passende længde pølse til en krans er 8-9 cm. Eller ca. 4 fingres bredde, afhængig af hvor fede fingre man har. Bages ved 200 grader i 7-10 minutter.
+
+Dette er mors standardopskrift, og standardportionsstørrelse. Jeg synes roligt man kan bage dobbelt portion. Så skal man heller ikke bøvle med halve æg.
+
+Og så var vanillestænger dyre engang. De er sådan set ikke blevet billigere. Men man kan roligt hælde mere vanille i.  Meget mere! En af de nærmeste dage bager jeg dobbelt portion, og regner med at bruge 4 stænger.
+
 <!--chapter:end:rmds/bagning.Rmd-->
 
 # Preservationerne
@@ -1877,17 +2081,24 @@ Simrer roligt under låg 1½ til 2 timer, til det bliver mørkt og tykt.
 
 # Diverse og usorteret
 
+## Hvor meget mel skal der i sovsen?
+Ja, det er jo en smagssag.
+
+Men i en opbagt sovs:
+
+3 spsk hvedemel til ½ liter væske.
+
 ## den faste madplansrotation
 
 
 ## kartoffelfrikadeller
 
-* 500 gram kartoffelmos
-* 1 revet løg
-* 1 æg
-* 3-4 spsk hvedemel
-* 4-5 spsk rasp
-* salt og peber
+500 gram kartoffelmos
+1 revet løg
+1 æg
+3-4 spsk hvedemel
+4-5 spsk rasp
+salt og peber
 
 Rør alt sammen, steg dem 2-3 minutter i olie/smør
 
@@ -1947,12 +2158,12 @@ Det tester vi så!
 ## Mississippi Mud Potatoes
 
 Den ondeste comfort food
-* 1½ kg kartofler - skrællet og skåret i mundrette tern (måske lidt større. De svinder)
-* 2½ dl revet cheddar
-* 3/4 kop majonæse
-* 3 smadrede hvidløg
-* 500 g bacon i tern - stegt
-* ½ cup hakket løg
+1½ kg kartofler - skrællet og skåret i mundrette tern (måske lidt større. De svinder)
+2½ dl revet cheddar
+3/4 kop majonæse
+3 smadrede hvidløg
+500 g bacon i tern - stegt
+½ cup hakket løg
 
 Forvarm ovnen til 170 grader. Sådan ca. Varmluft.
 Fedt en bradepande
@@ -1961,26 +2172,6 @@ Bag hele svineriet i 1½ time - eller til kartoflerne er møre.
 Rør gerne undervejs.
 Vupti. Overvej hvilken cheddar du bruger. Den billige fra 365 skiller 
 fuldstændigt og der er intet gooey eller stretchy over det.
-
-
-## Løgtærte
-
-En lidt anderledes ret. Jeg kan ikke helt finde ud af om det er en slags dessert - den er ret sød - eller en slags hovedret. Men god er den. Det er lidt en slags tarte tatin,
-bare med løg.
-
-* En rulle tærtedej
-* 25 skalotteløg (afhængig af størrelsen på løgene. Og din form)
-* 50 g smør
-* Timian, rosmarin eller lignende
-* Bacon. ca. 100 gram. Men hellere lidt mere end lidt mindre
-* 2 spsk sukker
-* Balsamicoeddike
-
-Pil løgene - lad dem være så hele som muligt.
-
-Steg dem ved svag varme i smørret til de har fået en lille smule farve. Tilsæt krydderurten, og steg videre under låg (så de får mere varme uden at tage meget mere farve) til løgene er møre. Smid bacontern ved, og steg videre til baconen har taget farve. Drys med sukker, og lad det karamelisere. Tilsæt eddiken og lad det hele koge ind til en sirup. Dæk panden med tærtedejen
-
-Stop dejen godt ned langs kanten, og sæt den i en 200 grader varm ovn i ca. 20 minutter. Vend den derpå ud på et fad eller en tallerken. Tærten kan enten bruges som tilbehør til en kødret eller som en lille selvstændig ret evt. med en grøn salat til.
 
 <!--chapter:end:rmds/diverse.Rmd-->
 
