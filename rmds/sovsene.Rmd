@@ -53,7 +53,7 @@ I hvert fald når vi er i det franske køkken.
 * Grimrod: Safran
 * Choron: Bearnaise, tomatpasta og fløde
 
-![sovsene](../images/saucer.jpg)
+![sovsene](images/saucer.jpg)
 
 Den skal laves til noget egen grafik.
 
