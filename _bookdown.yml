@@ -23,6 +23,7 @@ rmd_files: [
   "rmds/marmeladerne.Rmd",
   "rmds/diverse.Rmd",
   "rmds/teori.Rmd",
-  "rmds/omregninger.Rmd"]
+  "rmds/omregninger.Rmd",
+  "rmds/menuerne.Rmd"]
 delete_merged_file: true 
 output_dir: "docs"
