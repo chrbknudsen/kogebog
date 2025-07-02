@@ -224,16 +224,16 @@ Og så variationerne:
 
 Batchnumre, og tilsætning:
 
-1 allehåndebær
-2 allehåndebær
-1 nellike
-2 nelliker
-5 fennikelfrø
-10 fennikelfrø
-1 lille stjerneanis
-1 stor stjerneanis
-5 kommenfrø
-10 kommenfrø.
+1 1 allehåndebær
+2 2 allehåndebær
+3 1 nellike
+4 2 nelliker
+5 5 fennikelfrø
+6 10 fennikelfrø
+7 1 lille stjerneanis
+8 1 stor stjerneanis
+9 5 kommenfrø
+10 10 kommenfrø.
 
 Alt på glas, der lukkes og sættes på vandbadet. Et ret stort et af slagsen. Normalt bruger jeg min suppegryde til sousvidingen. Men jeg ville godt lave alle 10 glas på en gang. Jeg kunne selvfølgelig bare lave fem ad gangen. Krydderurterne skal jo filtreres fra, og det kunne jeg passende gøre mens de næste fem kom i gryden. Men bagefter havde jeg planlagt at glassene skulle i brug igen til næste uges morgenmad (man kan ane dele af det på panden i baggrunden). Og der skulle de være i vandet i en time. Og så ville det blive lidt for bøvlet. Så ned i kælderen og finde en termokasse – vi bruger dem når min vi holder fødselsdag for min mand, og hele svigerfamilien + min side er der. Og der derfor skal laves mad til 18 mennesker. Elkedlen op at koge, hælde kogende vand over låget – ja, den kan godt tåle 100 grader. Montere Anovaen, hælde vand i – hold da op hvor skulle der 
 meget vand i. Så støbejernsgryden og et stort sylteglas kom med ned i kassen. Det endte med at se således ud. Det er strengt taget noget rod at sætte en støbejernsgryde i – den kræver ret meget energi at varme op. Der er jeg nok nødt til at finde en mere fiks løsning til næste gang.
@@ -309,7 +309,7 @@ Saften af samme tre appelsiner: 200 ml.
 Alle ingredienser afvejet, og klar til at komme i gryden.
 
 Allehånde og stjerneanis knuses let i morteren. Citrongræs klippes i mindre stykker, og knuses i morteren. Alle øvrige ingredienser hældes i en gryde, der bringes i kog.
-
+![](../images/tonic.jpg)
 Fra gryden kom i kog, kogte den under middel varme i 21 minutter under låg.
 
 Hele balladen blev hældt gennem en sigte, og derefter gennem min superbag. Og derefter gennem kaffefiltre. Jeg tror jeg nåede op på 15 kaffefiltre, og var nødt til at tage en tur til Fakta for at købe flere.
@@ -337,3 +337,30 @@ Lige hvad kinabarken angår. Der testede jeg faktisk. Jeg tog en spsk (det er i
 Se, det er pænt store variationer. Der er tal mellem 6,5 og 8,5 gram. Hvis Politiken brugte det mindste mål, og jeg brugte det største – så er det en forskel på vores opskrifter på 30%. Det er faktisk ret meget.
 
 Så i stedet regnede jeg snittet ud – det er 7,5 g pr 15 milliliter. Eller 0,5 gram/ml. Og når Politiken angiver at man skal bruge 1½ spsk – hvilket så svarer til 22,5 ml, finder man ud af at der bør vejes 11,25 g kinabark af. Så præcis er min vægt ikke, så det blev til 11,3 g.
+
+## Eggnog
+
+Oprindeligt fra julen 2017
+
+Eggnog. Jeg har et eller andet sted godt vidst at det eksisterede. Det optræder jo i utallige amerikanske film. Men jeg har faktisk aldrig smagt det.
+Nu er det jul. Så nu skal det prøves. 
+Jeg har researchet lidt, og kombineret et par forskellige opskrifter. Så der er ikke nogen jeg lige kan henvise til. 
+
+
+Ingredienser:
+4 æggeblommer
+75 gram sukker
+4 dl mælk
+3 hele nelliker
+½ vanilliestang
+½ tsk stødt kanel
+2 dl rom (eller brandy)
+2 dl piskefløde (det er hvad der passer med min sifon)
+Et par strøg revet muskatnød.
+
+Proces:
+Vanillestangen flækkes og kornene skrabes ud. Fordel dem i sukkerret. Pisk blommerne og vanillesukkeret sammen til en luftig æggesnaps.
+Mælken, den nu tomme vanillestang og krydderierne koges op - kun lige til kogepunktet!
+Mælken hældes (langsomt!) over til æggene. Lad den passere gennem en si, så nellikerne og vanillestangen ikke kommer med. Der røres, og det hele skal så tilbage på blusset, hvor der (langsomt!) varmes op til ca. 65 grader. Det skal kun lige tykne, det er hverken en creme anglaise eller røræg vi er ved at lave. 
+Kør det gennem sien igen og sæt det på køl.
+Når det er koldt røres rom i, og det fordeles i glas. Giv det en god klat flødeskum på toppen (jeg bruger sifonen) og pynt med endnu et strøg muskatnød. 
