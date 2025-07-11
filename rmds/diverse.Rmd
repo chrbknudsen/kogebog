@@ -130,7 +130,7 @@ Tre problemer. Lige nu, men den er ikke helt afkølet, er den ret blød. Den er 
 
 Til gengæld er den supernem at gå til, så der er plads til et par eksperimenter til.
 
-# der skal nok være en separat til fisk
+## der skal nok være en separat til fisk
 
 ## Lax på grønt
 
