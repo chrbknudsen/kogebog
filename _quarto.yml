@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "Nusses kogebog"
+  author: "Christian"
+  date: "`r Sys.Date()`"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - rmds/gris.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

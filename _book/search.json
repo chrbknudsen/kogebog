@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nusses kogebog",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "rmds/gris.html#bacon-medisterpølse-i-airfryer",
+    "href": "rmds/gris.html#bacon-medisterpølse-i-airfryer",
+    "title": "3  Gris",
+    "section": "3.1 Bacon medisterpølse i airfryer",
+    "text": "3.1 Bacon medisterpølse i airfryer\nMedisterpølse vikles ind i bacon. 30 minutter i airfryer ved 180 grader."
+  },
+  {
+    "objectID": "rmds/gris.html#behåret-biker-pølse",
+    "href": "rmds/gris.html#behåret-biker-pølse",
+    "title": "3  Gris",
+    "section": "3.2 Behåret Biker pølse",
+    "text": "3.2 Behåret Biker pølse\nEller Hairy Bikers’ sausage casserole\n1–2 tbsp sunflower oil: 1–2 tbsp sunflower oil 12 good-quality pork sausages: 12 good-quality pork sausages 6 rashers rindless streaky bacon, cut into 2.5cm/1in lengths: 6 rashers rindless streaky bacon, cut into 2.5cm/1in lengths 2 onions, thinly sliced: 2 onions, thinly sliced 2 garlic cloves, crushed: 2 garlic cloves, crushed ½–1 tsp hot chilli powder or smoked paprika: ½–1 tsp hot chilli powder or smoked paprika 400g tin chopped tomatoes: 400g tin chopped tomatoes 300ml/10fl oz chicken stock: 300ml/10fl oz chicken stock 2 tbsp tomato purée: 2 tbsp tomato purée 1 tbsp Worcestershire sauce: 1 tbsp Worcestershire sauce 1 tbsp dark muscovado sugar: 1 tbsp dark muscovado sugar 1 tsp dried mixed herbs: 1 tsp dried mixed herbs 2 bay leaves: 2 bay leaves 3–4 fresh thyme sprigs: 3–4 fresh thyme sprigs 100ml/3½fl oz red or white wine (optional): 100ml/3½fl oz red or white wine (optional) 400g tin butter beans or mixed beans, drained and rinsed: 400g tin butter beans or mixed beans, drained and rinsed salt and freshly ground black pepper: salt and freshly ground black pepper rice or rustic bread slices, to serve\nHeat 1 tablespoon of the oil in a large non-stick frying pan and fry the sausages gently for 10 minutes, turning every now and then until nicely browned all over. Transfer to a large saucepan or a flameproof casserole dish and set aside.\n\nFry the bacon in the frying pan until starting to brown and crisp and then add to the dish with the sausages.\n\nAdd the onions to the frying pan and fry over a medium heat for 5 minutes until they start to soften, stirring often. You should have enough fat in the pan, but if not, add a little more oil. Add the garlic and cook for 2–3 minutes until the onions turn pale golden brown, stirring frequently.\n\nSprinkle over the chilli powder and cook together for a few seconds longer.\n\nStir in the tomatoes, stock, tomato purée, Worcestershire sauce, brown sugar and herbs. Pour in the wine, or some water if you’re not using wine, and bring to a simmer.\n\nTip the tomato mixture carefully into the pan with the sausages and bacon and return to a simmer. Reduce the heat, cover the pan loosely with a lid and leave to simmer very gently for 20 minutes, stirring from time to time.\n\nStir the beans into the casserole, and continue to cook for 10 minutes, stirring occasionally, until the sauce is thick.\n\nSeason to taste with salt and freshly ground black pepper and serve with rice or slices of rustic bread."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]
