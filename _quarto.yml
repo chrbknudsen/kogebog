@@ -10,6 +10,7 @@ book:
     - intro.qmd
     - summary.qmd
     - rmds/gris.qmd
+    - rmds/bagning.qmd
     - references.qmd
 
 bibliography: references.bib
