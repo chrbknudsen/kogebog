@@ -18,7 +18,7 @@ rmd_files: [
   "rmds/hapserne.Rmd",
   "rmds/supperne.Rmd",
   "rmds/desserterne.Rmd",
-  "rmds/bagning.Rmd",
+  "rmds/bagning.qmd",
   "rmds/marmeladerne.Rmd",
   "rmds/diverse.Rmd",
   "rmds/teori.Rmd",
