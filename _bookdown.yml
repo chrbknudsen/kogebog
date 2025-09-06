@@ -4,13 +4,12 @@ language:
     chapter_name: "Chapter "
 rmd_files: [
   "index.Rmd",
-  "rmds/kylling.Rmd",
-  "rmds/kylling.Rmd",
-  "rmds/ko.Rmd",
-  "rmds/lam.Rmd",
+  "rmds/kylling.qmd",
+  "rmds/ko.qmd",
+  "rmds/lam.qmd",
   "rmds/vildt.Rmd",
-  "rmds/pasta.Rmd",
-  "rmds/green.Rmd",
+  "rmds/pasta.qmd",
+  "rmds/green.qmd",
   "rmds/sovsene.Rmd",
   "rmds/kondimenterne.Rmd",
   "rmds/specialiteterne.Rmd",
