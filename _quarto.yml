@@ -12,6 +12,7 @@ book:
     - rmds/gris.qmd
     - rmds/bagning.qmd
     - references.qmd
+  downloads: [pdf]
 
 bibliography: references.bib
 
