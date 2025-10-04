@@ -1,0 +1,242 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrreprt}
+
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+% Make \paragraph and \subparagraph free-standing
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
+\makeatother
+\makeatletter
+\@ifundefined{shadecolor}{\definecolor{shadecolor}{rgb}{.97, .97, .97}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[enhanced, interior hidden, borderline west={3pt}{0pt}{shadecolor}, frame hidden, breakable, boxrule=0pt, sharp corners]}{\end{tcolorbox}}\fi
+
+\hypertarget{omregninger-og-muxe6ngder}{%
+\chapter{omregninger og mængder}\label{omregninger-og-muxe6ngder}}
+
+Ved kogning af pasta er reglen:
+
+1000/100/10. Som i 1000 g vand, 100 g pasta og 10 g NaCl
+
+\hypertarget{us--til-civiliserede-muxe5l}{%
+\section{US- til civiliserede mål}\label{us--til-civiliserede-muxe5l}}
+
+\begin{itemize}
+\tightlist
+\item
+  1 oz \textasciitilde{} 28 gram
+\item
+  375 F \textasciitilde{} 190 grader C
+\item
+  1 cup = 273 ml
+\item
+  1 pint = 2 cups = 546 ml
+\end{itemize}
+
+\hypertarget{volumenvuxe6gt}{%
+\section{Volumen/vægt}\label{volumenvuxe6gt}}
+
+\hypertarget{generelt}{%
+\subsection{Generelt}\label{generelt}}
+
+\begin{itemize}
+\tightlist
+\item
+  1 spsk = 15 ml
+\item
+  1 tsk = 5 ml
+\end{itemize}
+
+\hypertarget{specifikke}{%
+\subsection{Specifikke}\label{specifikke}}
+
+\begin{itemize}
+\tightlist
+\item
+  1 spsk groft salt = 22 gram
+\item
+  1 tsk groft salt = 7 gram
+\end{itemize}
+
+\hypertarget{muxe6ngder}{%
+\section{Mængder}\label{muxe6ngder}}
+
+\hypertarget{pastasalat-til-madpakke}{%
+\subsection{pastasalat til madpakke}\label{pastasalat-til-madpakke}}
+
+Vi skal have mængderne på plads her!
+
+300 gram tør discount fusili vejer 681 gram kogt.
+
+Så skal vi have styr på hvor meget der skal til for at gøre det ud for
+frokost. Og så finde ud af hvor meget det fylder - så beholder størrelse
+kan justeres.
+
+Testet 21. januar.
+
+2229 gram pastasalt, inklusive den hvide margretheskål.
+
+Så spiste vi begge to - vi fik nok. Og skålen, inklusive resten af
+salaten vejede 1359 gram
+
+Resten af pastasalaten vejede - uden emballage 625 gram.
+
+Salaten blev lavet af ovenstående 681 gram pasta, 240 gram majs, 200
+gram salattern og 250 gram tomater. Hertil rigelige mængder thousand
+island dressing
+
+Vi fik med andre ord 870 gram pastasalat i alt, eller 435 gram hver.
+
+Og ialt blev der produceret 2229-1359 = 870, det vi spiste. + 625 gram,
+det der var til rest. Så i grove træk får vi 1495 gram pastasalat af at
+koge 300 gram tør pasta. Hvis vi regner med 500 gram færdig pastasalt,
+går der derfor 100 gram tør pasta til en frokostportion pastasalat
+
+Vi kan yderligere notere, at et 3/4 liters fido sylteglas med
+patentlukning, uden de store problemer holder ca. 500 gram pastasalat.
+Det er nu min madpakkebeholder!
+
+
+
+\end{document}
