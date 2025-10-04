@@ -1,9 +1,9 @@
 project:
-  type: website
+  type: book
 
 book:
   title: "Nusses kogebog"
-  author: "Christian"
+  author: "Christian Knudse"
   date: "`r Sys.Date()`"
   chapters:
     - index.qmd
@@ -38,8 +38,6 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
 
 
 
