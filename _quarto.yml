@@ -31,7 +31,6 @@ book:
     - rmds/menuerne.qmd
     - rmds/bagning.qmd
     - references.qmd
-  downloads: [pdf]
 
 bibliography: references.bib
 
