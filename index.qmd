@@ -1,5 +1,16 @@
-# Preface {.unnumbered}
+---
+title: "Welcome"
+lang: da
+---
 
-This is a Quarto book.
+# Welcome {#welcome}
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Hej. Dette er det køkken jeg drømmer om. Indtil da:
+Dette er min kogebog. Nusses samling af opskrifter – dimensioneret efter os to derhjemme.
+
+```{r}
+#| echo: false
+#| fig-cap: "DALL·E dieselpunk-køkken"
+#| fig-align: center
+#| out-width: 80%
+knitr::include_graphics("images/DALL·E-dieselpunk.png")

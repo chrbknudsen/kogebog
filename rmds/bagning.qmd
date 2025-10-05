@@ -1,3 +1,11 @@
+---
+title: "Bagning"
+format:
+    html:
+        toc: true
+        number_sections: true
+---
+
 # Bagning
 
 
