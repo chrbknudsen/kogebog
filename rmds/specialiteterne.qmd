@@ -26,10 +26,10 @@ Målet er at de skal kunne rives. Så de skal være ret hårde og tørre.
 
 ## sous vide kold kaffe
 
-* ½ cup (så volumen mål) groft kværnet kaffe
-* 4 cup vand
+- ½ cup (så volumen mål) groft kværnet kaffe
+- 4 cup vand
 
-kaffe og vand i vandtæt syltetøjsglas. Sousvides i 2-4 timer ved 150 grader F.
+kaffe og vand i vandtæt syltetøjsglas. Sousvides i 2-4 timer ved 66 °C.
 
 Filtrer, og server hældt over is, eller opbevar på køl i en uges tid. 
 Overvej om den skal fortyndes.
@@ -39,20 +39,20 @@ Det her skal prøves! 
 
 Oversættelsen må være "kaffesmør", men originalen kalder det for Uber fantastic Coffee Butter: http://www.instructables.com/id/Uber-fantastic-Coffee-Butter/.
 
-* En spsk fintmalet kaffe
-* En spsk jordnøddesmør
-* En tsk honning eller sukker.
+- En spsk fintmalet kaffe
+- En spsk jordnøddesmør
+- En tsk honning eller sukker.
 
 De skriver ikke noget om hvilken slags jordnøddesmør der skal til. Men jeg vil gætte på at det ikke skal være crunchy.
 
 ## Ærtepesto
 
-* 2 dl ærter - friske er selvfølgelig pr definition bedst. Men så skal de blancheres først.
-* 1 fed hvidløg
-* 1 dl mandler (smuttede)
-* ½ dl olivenolie
-* 2 spsk citronsaft
-* salt og peber
+- 2 dl ærter - friske er selvfølgelig pr definition bedst. Men så skal de blancheres først.
+- 1 fed hvidløg
+- 1 dl mandler (smuttede)
+- ½ dl olivenolie
+- 2 spsk citronsaft
+- salt og peber
 
 Rist mandlerne på panden til de er gyldne og sprøde. Gerne med lidt salt.
 
@@ -67,10 +67,10 @@ Anyway. Flydende håndsprit kan laves efter disse opskrifter. En af dagene ser j
 
 Du skal bruge:
 
-* 99% isopropylalkohol eller 93% husholdningssprit.
-* Glycerin
-* Brintoverilte 3%
-* Vand
+- 99% isopropylalkohol eller 93% husholdningssprit.
+- Glycerin
+- Brintoverilte 3%
+- Vand
 
 Det hele kan findes hos en materialist. Hvis du kan finde sådan en. Matas er jo en parfumeforretning nu.
 
