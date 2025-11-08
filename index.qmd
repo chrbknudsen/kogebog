@@ -17,3 +17,4 @@ denne side faktisk kommer til at ligne hvad jeg ønsker den skal ligne...
 #| fig-align: center
 #| out-width: 80%
 knitr::include_graphics("images/DALL·E-dieselpunk.png")
+```
