@@ -105,14 +105,14 @@ i bunden.
 ## Hummus
 
 
-* En dåse kikærter (vægt drænet?)
-* En toppet spiseskefuld tahin
-* Citronsaft
-* 1 tsk spidskommen
-* ½ dl koldt vand
-* en isterning
-* 3 spsk olie
-* salt og peber
+- En dåse kikærter (vægt drænet?)
+- En toppet spiseskefuld tahin
+- Citronsaft
+- 1 tsk spidskommen
+- ½ dl koldt vand
+- en isterning
+- 3 spsk olie
+- salt og peber
 
 
 ## Bagt camenbert
@@ -127,7 +127,7 @@ Bag i airfryeren ved 160 grader i 12 minutter. Lækkert.
 
 ## Cheeseburger buket
 
-tortillas smøres med hakket kød, og skæres i halve.
+Tortillas smøres med hakket kød, og skæres i halve.
 En trekant cheddarskive lægges på (bred side mod rundingen i tortillaen.
 Tortillaen rulles til et kræmmerhus, og placeres i en rundform. 12 stykker eller 
 deromkring. i ovnen til kødet er tilberedt. Rdys med hakkede rødløg, hakkede
@@ -139,9 +139,9 @@ Jeg er skeptisk overfor det med det rå kød. Så jeg steger det først...
 ## SALTE MANDLER
 
 
-250 gram mandler
-250 ml vand
-75 g salt
+- 250 gram mandler
+- 250 ml vand
+- 75 g salt
 
 Kog vandet, tilsæt salt, og rør til det er opløst.
 Tag vandet af blusset, og tilsæt mandlerne.
@@ -155,16 +155,17 @@ fra blizzard kogebogen
 Cheddar-Beer Dip
 Bake time: 15 mins Makes: 1 batch
 Pairs well with: Essential Brewfest Pretzels, and Spicy Vegetable Chips
-2 tablespoons salted butter
-2 tablespoons flour
-1 cup pale low-hop beer, such as a pilsner
-½ cup milk
-½ teaspoon mustard
-½ teaspoon garlic powder
-½ teaspoon paprika
-Dash of Worcestershire sauce
-3 cups sharp cheddar cheese, shredded
-Salt and pepper to taste
+- 2 tablespoons salted butter
+ -2 tablespoons flour
+- 1 cup pale low-hop beer, such as a pilsner
+- ½ cup milk
+- ½ teaspoon mustard
+- ½ teaspoon garlic powder
+- ½ teaspoon paprika
+- Dash of Worcestershire sauce
+- 3 cups sharp cheddar cheese, shredded
+- Salt and pepper to taste
+
 In a medium frying pan, melt the butter over medium heat.
 Whisk in the flour and cook for a minute or two, until the
 mixture has turned a nice golden color. While whisking,

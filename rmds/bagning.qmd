@@ -74,12 +74,12 @@ Denne opskrift har så ikke gået så meget i arv. Endnu. Det er godt nok mors o
 
 Ingredienser:
 
-* 188 g sukker
-* 100 gram margarine
-* 3 æg
-* 2 spsk mælk
-* Revet skal, og saft, af ½ citron
-* 400 gram mel
+- 188 g sukker
+- 100 gram margarine
+- 3 æg
+- 2 spsk mælk
+- Revet skal, og saft, af ½ citron
+- 400 gram mel
 
 Fremgangsmåde:
 
@@ -153,14 +153,14 @@ Og så var vanillestænger dyre engang. De er sådan set ikke blevet billigere. 
 I serien "Metas opskrifter" er vi nået til kager.
 
 Opskriften bærer præg af en noget mere beskeden husholdning end den gennemsnitlige danske i dag.
-* 3 hele æg
-* 250-400 gram sukker
-* 250 gram valsede byggryn
-* 250 gram rugsigtemel
-* 2 dl fløde eller mælk
-* 2 dl vand
-* 1 bagepulver (et brev, red.)
-* 1-2 kopper syltetøj eller marmelade
+- 3 hele æg
+- 250-400 gram sukker
+- 250 gram valsede byggryn
+- 250 gram rugsigtemel
+- 2 dl fløde eller mælk
+- 2 dl vand
+- 1 bagepulver (et brev, red.)
+- 1-2 kopper syltetøj eller marmelade
 
 Slå æggene i en skål. Kom sukkeret deri, efter hvad man kan ofre og som det tiltrænges i forhold til syltetøjet der skal i.
 Pisk det godt sammen.
@@ -350,12 +350,12 @@ Normalt laver jeg kagefigurer af en brunkagelignende dej. Men jeg kunne godt tæ
 
 The Decorated Cookie har en opskrift, der ikke er så ringe endda. Men som selvfølgelig skal oversættes til fornuftige SI-enheder. Og justeres lidt.
 
-225 gram smør
-115 gram flormelis
-1 æg
-1 tsk vanillepasta. Eller en spsk vanillesukker
-300 gram mel
-½ tsk fint salt
+- 225 gram smør
+- 115 gram flormelis
+- 1 æg
+- 1 tsk vanillepasta. Eller en spsk vanillesukker
+- 300 gram mel
+- ½ tsk fint salt
 
 Der kan suppleres med mandelekstrakt, eller andre smagsgivere. 1-2 teskeer. Men det er en smagssag.
 
@@ -374,10 +374,10 @@ Det lykkedes ikke at finde majsjuice. Thaiforretningerne nede ved Istedgade har 
 
 Så i stedet lavede jeg denne:
 
-110 g mørk chokolade
-5 mindre æg
-3 spsk mel
-6 spsk sukker
+- 110 g mørk chokolade
+- 5 mindre æg
+- 3 spsk mel
+- 6 spsk sukker
 
 Chokoladen smeltes, og resten røres i. Det hele filtreres og hældes på sifonen. To kapsler lattergas tilsættes. Den anden blev ikke tømt helt i sifonen.
 
@@ -398,23 +398,23 @@ Oprindeligt er det den Søren Ryge gjorde kendt.
 
 Dej:
 
-50 g gær
-1 kop lunkent vand
-Lidt salt
-3 spsk sukker
-3 æg
-330 g margarine
-450 g mel
+- 50 g gær
+- 1 kop lunkent vand
+- Lidt salt
+- 3 spsk sukker
+- 3 æg
+- 330 g margarine
+- 450 g mel
 
 Remonce:
 
-225 g sukker
-225 g margarine
-Kardemomme eller kanel
+- 225 g sukker
+- 225 g margarine
+- Kardemomme eller kanel
 
 I øvrigt:
 
-Rosiner, perlesukker og hakkede nødder.
+- Rosiner, perlesukker og hakkede nødder.
 
 Fremgangsmåde:
 
@@ -442,9 +442,9 @@ Dér hedder den "Un bon jeune homme". Og her i køkkenet kan vi godt lide gode u
 
 Man tager:
 
-7 dl mælk
-50 gram sukker
-175 god mørk chokolade, sådan en 65% sag
+- 7 dl mælk
+- 50 gram sukker
+- 175 god mørk chokolade, sådan en 65% sag
 
 Og så gør man følgende:
 
@@ -466,11 +466,11 @@ Så vi kan lige så godt få sat en surdej over, så vi kan bage brød når nati
 
 Indtil da, her er opskriften på to lækre brød bagt med minimale mængder gær.
 
-5 g gær
-1 tsk sukker
-4 dl lunkent vand
-450 g mel
-1 tsk salt
+- 5 g gær
+- 1 tsk sukker
+- 4 dl lunkent vand
+- 450 g mel
+- 1 tsk salt
 
 Rør gær og sukker ud i vandet. Tilsæt mel og rør til det er blandet godt op til en jævn konsistens uden klumper.
 
@@ -488,11 +488,11 @@ Jeg har ikke lige nogen billeder af resultatet. De blev spist for hurtigt, men p
 
 Bent Surdej kan nu også lave boller. Jeg ved ikke helt hvorfor, men efter den første coronanedlukning er overstået, har han tilbragt mere af tiden i køleskabet. Og det er han glad for. Så nu kan der også leveres boller.
 
-Discardet fra Bent. 2-2½ dl af det jeg ellers ville have hældt i vasken ved fodringen.
-450 gram mel
-18 gram fint salt
-3 dl vand
-En sjat olivenolie
+- Discardet fra Bent. 2-2½ dl af det jeg ellers ville have hældt i vasken ved fodringen.
+- 450 gram mel
+- 18 gram fint salt
+- 3 dl vand
+- En sjat olivenolie
 
 Kl 630 eller deromkring går jeg i gang. Bland salt og mel, og ælt det hele sammen. Det er lidt vigtigt ikke at hælde salt direkte i surdejen, det slår den ihjel.
 
@@ -504,11 +504,30 @@ Og det er det. Jeg er godt tilfreds med resultatet, de smager lige så godt som 
 
 ## Boller
 
-Årsagen til at dele af svigermekanikken mener jeg er den store bagermester er denne opskrift på bløde fødselsdagsboller:
+Årsagen til at dele af svigermekanikken mener jeg er den store bagermester er denne opskrift på bløde fødselsdagsboller. 
 
-http://www.dk-kogebogen.dk/opskrift2/visopskrift.php?id=26732
+- 1000 gram Hvedemel
+- 5 dl vand 
+- 100 g margarine (men jeg bruger normalt smør...)
+- 100 	gram 	Sukker
+- 50 	gram 	Gær, frisk
+- 1 		Æg M/L, hele
+- 0.5 	tsk. 	Salt
+- 1 		Æg M/L, hele. Til pensling
 
+
+Gæren udrøres i det lune vand.
+
+De øvrige ingredienser og ca. 2/3 af melet tilsættes, og dejen æltes godt. Yderligere mel tilsættes til dejens konsistens er passende. - Den skal klæbe lidt til hænder og bord.
+
+Dejen hæver tildækket et lunt sted i ca. 30 min.
+
+Dejen æltes igennem og rulles til ca. 30 boller.
+
+Bollerne efterhæver tildækket et lunt sted ca. 30 min.
+
+Bollerne pensles med æg og bages i en forvamet ovn ved 225 grader C alm. ovn i 12-15 minutter. 
 
 ## Jødekager - mors opskrift
 
-Så... Vi skal nok have den rekvireret fra mor....
+Så... Vi skal nok have den rekvireret fra mor.... Det har vi gjort en del gange. Mon ikke det lykkes på et tidspunkt.
