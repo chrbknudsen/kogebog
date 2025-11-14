@@ -11,10 +11,5 @@ Dette er min kogebog. Nusses samling af opskrifter – dimensioneret efter os to
 Jeg drømmer også lidt om at jeg kommer til at fatte quarto så meget at 
 denne side faktisk kommer til at ligne hvad jeg ønsker den skal ligne...
 
-```{r}
-#| echo: false
-#| fig-cap: "DALL·E dieselpunk-køkken"
-#| fig-align: center
-#| out-width: 80%
-knitr::include_graphics("images/DALL·E-dieselpunk.png")
-```
+
+![](images/DALL·E-dieselpunk.png)

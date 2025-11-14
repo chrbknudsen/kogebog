@@ -8,8 +8,6 @@ book:
   date: "`r Sys.Date()`"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
     - rmds/gris.qmd
     - rmds/kylling.qmd
     - rmds/ko.qmd
