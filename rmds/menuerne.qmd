@@ -81,11 +81,11 @@ Knoldsellerien skrælles, og skæres i småstykker. Sådan ca. som tændstikker.
 Mayonaisen er naturligvis hjemmerørt. Det skræmmer mange. Men det er der ingen grund til! Opskriften er så enkel som det kan blive:
 
 Mayonaise
-2 æggeblommer
-3 dl rapsolie
-2 spsk dijon sennep
-Salt
-Æblecidereddike
+- 2 æggeblommer
+- 3 dl rapsolie
+- 2 spsk dijon sennep
+- Salt
+- Æblecidereddike
 
 Æggeblommerne piskes voldsomt med salt, sennep og en sjat eddike. De skal være tykke og hvide. Dernæst tilsættes olien. Dråbevis i første omgang, senere i en tynd stråle. Fortsæt med at hælde olie i til mayoen er tung og skælver. Basalt set til det ligner mayo. Smag til lidt med mere fint salt og eddike.
 
@@ -100,19 +100,19 @@ Der er god tid. Så det skal være noget der står og hygger sig længe i gryden
 Opskrifterne er lidt på slump. Når jeg er i det salte køkken følger jeg sjældent opskrifter helt præcist.
 
 Braisserede svinekæber
-10 svinekæber
-1 liter porter
-1 dl balsamicoeddike
-2 løg. Eller tre hvis de ikke er så store.
-3 fed hvidløg
-3 gulerødder. Eller fire. Gulerødderne giver sødme, så pas på med at give for mange.
-4 laurbærblade
-2 stk stjerneanis
-3 kviste rosmarin
-1 helt bundt timian
-8 peberkorn
-Rigeligt smør
-Salt
+- 10 svinekæber
+- 1 liter porter
+- 1 dl balsamicoeddike
+- 2 løg. Eller tre hvis de ikke er så store.
+- 3 fed hvidløg
+- 3 gulerødder. Eller fire. Gulerødderne giver sødme, så pas på med at give for mange.
+- 4 laurbærblade
+- 2 stk stjerneanis
+- 3 kviste rosmarin
+- 1 helt bundt timian
+- 8 peberkorn
+- Rigeligt smør
+- Salt
 
 Puds kæberne af for sener, gnid dem med salt. Og smid dem i køleskabet. Det gør jeg klokken tidligt, de tager ikke skade af at ligge i 12 timer - men så tidligt står jeg dog ikke op.
 Steg kæberne i masser af smør - brug gerne en støbejernsgryde, og sørg for at de får god varme, så de får stegeskorpe.
@@ -121,31 +121,31 @@ Alle andre ingredienser hældes i gryde, og der tilsættes vand til kæberne er 
 Fisk kæberne op, filtrer braisseringsvæsken. Tag et par dl fra til senere brug, og kog resten ind. Sådan ca. til sirupskonsistens. Vend kæberne i lagen, og varm dem igennem.
 
 Kartoffelmos - med parmasan
-Kartofler
-Smør
-Fløde
-Parmasanost (revet)
-Hvid peber
-Muskatnød (revet)
+- Kartofler
+- Smør
+- Fløde
+- Parmasanost (revet)
+- Hvid peber
+- Muskatnød (revet)
 
 Det gider jeg ikke udpensle. Men riv parmasanen før du går igang med at mose kartofler. Der skal forholdsvist meget i, og mosen skal helst ikke blive alt for kold, mens du står og fumler med rivejern og ost. Det er også et godt trick at smelte smørret i fløden, så man ikke hælder kolde ting ned til kartoflerne. Af hensyn til anretningen, skal mosen ikke være for lind.
 
 Glaserede perleløg
-2 glas perleløg
-2 dl sukker
-25 gram smør
+- 2 glas perleløg
+- 2 dl sukker
+- 25 gram smør
 
 Samme princip som brune kartofler. Smelt sukkeret til en mørk karamel, tilsæt smør, rør godt rundt. Tilsæt perleløgene. Og rør godt rundt. En vigtig pointe her: Sørg for at løgene er dryppet godt af. Rigtigt godt. Jo mere vand der er på dem, jo sværere er det at få karamellen til at hæfte.
 
 Råsyltede rødbeder
-5 rødbeder - lidt afhængig af størrelsen
-2 rødløg
-2 dl balsamicoeddike
-2 dl vand
-1 spsk sukker
-5 peberkorn
-1 laurbærblad
-3 spsk olivenolie
+- 5 rødbeder - lidt afhængig af størrelsen
+- 2 rødløg
+- 2 dl balsamicoeddike
+- 2 dl vand
+- 1 spsk sukker
+- 5 peberkorn
+- 1 laurbærblad
+- 3 spsk olivenolie
 
 Kog eddiken, vand, sukker og krydderier sammen.  Lad lagen køle helt af.
 Skræl rødbederne. Fortsæt med at skrælle dem i lange, tynde flager. Kartoffelskrælleren er udemærket til formålet.
@@ -154,9 +154,9 @@ Pil rødløgene, og skær dem i meget tynde ringe. Et mandolinjern er godt, hvis
 Bland løgringe, rødbedestrimler (lad dem dryppe godt af), lagen og olivenolie sammen, og lad det hygge sig i køleskabet et par timer.
 
 Portvinssauce
-2 dl braisseringsvæske fra kæberne
-5 dl god kalvefond
-3 dl portvin
+- 2 dl braisseringsvæske fra kæberne
+- 5 dl god kalvefond
+- 3 dl portvin
 
 Portvin og kalvefond (brug bare Oscars fra pulver. Den er faktisk ret god), koges ind. Det kan du gøre i god tid, når kæberne er nået dertil hvor du har et par dl braisseringsvæske, tilsætter du dem, og koger ind til du synes konsistensen er rigtig. Den skal være ret tyk.
 
@@ -168,9 +168,9 @@ Dessert:
 
 Her går vi efter en lille symfoni af is. Symfoni fordi det lyder fancy. Is, fordi jeg har et par opskrifter der skal testes og udvikles lidt på. Og fordi det er lidt tid siden jeg sidst havde ismaskinen i sving.
 
-Rosenpeberis
-Jordbæris
-Chokoladeis
+- Rosenpeberis
+- Jordbæris
+- Chokoladeis
 
 Og det er nok bare det.
 
@@ -184,23 +184,23 @@ Sådan ser de ud - du kender dem godt
 
 Nu tænker du måske - peberis?! Det kan da virkelig ikke være godt. Men det er det faktisk. Det bliver aldrig en is man sidder og kører ned i store mængder. Det er en variant, der skal serveres sammen med andre slags is, for at give et eksotisk pift. Alene er den for meget. Sammen med andet er den god. Denne gang bliver det lidt et forsøg. Første gang jeg prøvede, brugte jeg en opskrift der dels gav for meget is (i forhold til størrelsen af vores ismaskine), dels var for stærkt pebret. Så denne gang bruger jeg min standardopskrift, og 7 gram rosapeber.
 
-150 Sukker
-2 dl sødmælk
-5 dl piskefløde
-8 æggeblommer
-7 gram rosapeber
+- 150 Sukker
+- 2 dl sødmælk
+- 5 dl piskefløde
+- 8 æggeblommer
+- 7 gram rosapeber
 
 Sødmælken bringes i kog med peberkornene, tages af ilden, og trækker 10 minutter.
 
 Dernæst hældes alle andre ingredienser i gryden (piskefløden først, så temperaturen bringes ned), og der varmes op til ca. 80 grader under omrøring. Dernæst passeres det hele gennem en sigte, hældes på ismaskinen (efter at være kølet lidt af). Og når ismaskinen er færdig, ryger det i fryseren og stivner helt.
 
 Jordbæris
-250 gram jordbær - jeg bruger bare de frosne
-75 gram sukker
-½ stang vanille
-4 æggeblommer
-1 dl sødmælk
-2½ dl piskefløde
+- 250 gram jordbær - jeg bruger bare de frosne
+- 75 gram sukker
+- ½ stang vanille
+- 4 æggeblommer
+- 1 dl sødmælk
+- 2½ dl piskefløde
 
 Vanillestangen flækkes, og kornene skrabes ud. De fordeles i halvdelen af sukkeret.
 
@@ -214,11 +214,11 @@ Jeg har en pæn sjat lys belgisk chokolade af god kvalitet. Men der er lige i un
 
 Her kører vi igen standardvanillieis opskriften - igen uden vanille.  Jeg tilsætter efter cremen er blevet siet, et par gode håndfulde chokolade til den, og rører godt rundt. Hvorefter den kommer på ismaskinen og derefter i fryseren. Da chokoladen er sød - skærer jeg lidt ned på sukkermængden i opskriften.
 
-* 100 gram sukker
-* 2 dl Sødmælk
-* 5 dl Piskefløde
-* 8 æggeblommer
-* 160 gram lys chokolade
+- 100 gram sukker
+- 2 dl Sødmælk
+- 5 dl Piskefløde
+- 8 æggeblommer
+- 160 gram lys chokolade
 
 Alle ingredienser bortset fra chokoladen hældes i en gryde og varmes langsomt op til 80 grader under omrøring. Ismassen køres gennem en sigte, og chokoladen tilsættes. Den chokolade jeg har stående kommer i små tabletter. Ellers havde jeg hakket den fint, for at få den til at smelte hurtigere i den varme ismasse. Der røres grundigt, og ismassen hældes på ismaskinen. Den kvikke trafikkanin kan nu godt regne resten af processen ud.
 
