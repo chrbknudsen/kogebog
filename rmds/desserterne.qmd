@@ -10,12 +10,12 @@ format:
 
 ## Pistacie is
 
-* 5 dl fløde
-* 2 dl sødmælk
-* 100 g + 2 spsk sukker
-* 153 g æggeblommer (ca 8 stk)
-* 136 g pistacienødder
-* 0.2 g carragenan
+- 5 dl fløde
+- 2 dl sødmælk
+- 100 g + 2 spsk sukker
+- 153 g æggeblommer (ca 8 stk)
+- 136 g pistacienødder
+- 0.2 g carragenan
 
 Nødderne hakkes fint på maskine. Fløde,
 mæld og hakkede nødder bringes op til ca.
@@ -37,21 +37,21 @@ resultatet er grønnere.
 
 ## Salt og peber is
 
-* 454 gram piskefløde
-* 1 spsk sorte peberkorn
-* ½ tsk sorte peberkorn
-* 150 gram sukker
-* 1 spsk vodka
-* ½ tsk salt
-* flage salt
+- 454 gram piskefløde
+- 1 spsk sorte peberkorn
+- ½ tsk sorte peberkorn
+- 150 gram sukker
+- 1 spsk vodka
+- ½ tsk salt
+- flage salt
 
-knus 1 spsk peberkorn groft i en morter. 
-varm fløden op til den damper. tag af varmen, og rør de 
+Knus 1 spsk peberkorn groft i en morter. 
+Varm fløden op til den damper. tag af varmen, og rør de 
 knuste peberkorn i. Lad det trække en time - rør regelmæsigt.
 Knus ½ tsk peber fint.
 
 
-Sig fløden og smid peberkornene ud. Tilføj sukker,
+Sigt fløden og smid peberkornene ud. Tilføj sukker,
 vodka og salt, og rør indtil sukkeret er opløst.
 Rør det fintmalede peber i. Dæk og køl til meget 
 koldt, mindst et par timer, op til en dag.
@@ -66,9 +66,9 @@ Smid lidt flagesalt på toppen.
 
 Hertil kan serveres en salt og peber brittle.
 
-* 1 tsk sorte peberkorn
-* ½ kop (99 gram) sukker
-* flagesalt.
+- 1 tsk sorte peberkorn
+- ½ kop (99 gram) sukker
+- flagesalt.
 
 Mal peberen - vi skal have et mix af groft og fint.
 Dæk bageplade med bagepapir.
@@ -84,19 +84,19 @@ Lad det køle helt ned - mindst 15 minutter, knus til mindre stykker - og opbeva
 ## Kæmpe E-ords isdessert
 
 Solbærting
-* 400 g solbær
-* 200 g sukker
-* 2 spsk. citronsaft
-* 2 spsk. vand
+- 400 g solbær
+- 200 g sukker
+- 2 spsk. citronsaft
+- 2 spsk. vand
 
-isen
-* 5 dl piskefløde
-* 5 æggeblommer
-* 100 g rørsukker
+Isen
+- 5 dl piskefløde
+- 5 æggeblommer
+- 100 g rørsukker
 
 Sjokoladesovsen
-* 50 g god mørk chokolade (ca. 70% kakao)
-* 1/2 dl fløde
+- 50 g god mørk chokolade (ca. 70% kakao)
+- 1/2 dl fløde
 
 Solbærtingen:
 Kom alt i en gryde, kog ca. 10 minutter. Lad det køle af.
@@ -123,14 +123,14 @@ islagkagen ved servering. Pynt evt med solbær og/eller solbærblade.
 ## Fransk nougat
 Det er ikke sundt... Men det smager godt.
 
-* 200 gram mandler
-* 75 gram usaltede pistacenødder
-* 75 gram æggehvider
-* 125 ml vand
-* 250 gram melis
-* 100 gram glukosesirup
-* 150 gram honning
-* Flormelis.
+- 200 gram mandler
+- 75 gram usaltede pistacenødder
+- 75 gram æggehvider
+- 125 ml vand
+- 250 gram sukker
+- 100 gram glukosesirup
+- 150 gram honning
+- Flormelis.
 
 For en firkantet beholder på ca. 15x15 cm med bagepapir og et solidt drys flormelis.
 
@@ -155,13 +155,13 @@ Så hældes hele massen i beholderen. Giv den et solidt drys flormelis ovenpå, 
 
 Vist oprindeligt fra Irma.
 
-* 60 gram rå cashewnødder
-* 1 dåse kokosmælk. Ikke light!
-* 2 modne avokadoer
-* 1 moden banan
-* 2 store håndfulde spinat
-* 4 spsk sirup (agave. Ahorn hvis det er hvad jeg har)
-* 2 tsk vanillepulver
+- 60 gram rå cashewnødder
+- 1 dåse kokosmælk. Ikke light!
+- 2 modne avokadoer
+- 1 moden banan
+- 2 store håndfulde spinat
+- 4 spsk sirup (agave. Ahorn hvis det er hvad jeg har)
+- 2 tsk vanillepulver
 
 Nødderne udblødes i 12 timer. Det faste fedt fra kokosmælken (så ikke den flydende fraktion af dåsen) samt alle andre ingredienser (også nødderne) kommes i blenderen, og blendes til blandingen er jævn og kremet.
 
@@ -176,14 +176,14 @@ Den opskrift forudsætter at man har en rest rødvin til overs. Det sker ikke s�
 
 Ingredienser:
 
-* 400 gram frosne jordbær
-* 500 gram frosne blåbær (eller hvad det nu er - det rant gemmer vi til senere)
-* 450 gram sukker
-* 3 dl rødvin (gerne tør)
-* 2 spsk balsamico eddike
-* 2½ cm frisk ingefær i skiver
-* 1 tsk vanille ekstrakt
-* ½ tsk salt
+- 400 gram frosne jordbær
+- 500 gram frosne blåbær (eller hvad det nu er - det rant gemmer vi til senere)
+- 450 gram sukker
+- 3 dl rødvin (gerne tør)
+- 2 spsk balsamico eddike
+- 2½ cm frisk ingefær i skiver
+- 1 tsk vanille ekstrakt
+- ½ tsk salt
 
 Procedure:
 
@@ -203,25 +203,26 @@ Næste gang prøver jeg at hælde mere rødvin i. Vinen fylder ikke meget i smag
 Trifli til 4 personer
 
 Kompot:
-* 250 g rabarberstænger
-* 250 g jordbær
-* 1 stang vanilje
-* 1/2 dl vand
-* 2 spsk. appelsin- eller citronsaft
-* 150 g sukker
+- 250 g rabarberstænger
+- 250 g jordbær
+- 1 stang vanilje
+- 1/2 dl vand
+- 2 spsk. appelsin- eller citronsaft
+- 150 g sukker
 
 Desuden:
-* 12 makroner
-* 4 spsk. gin
+- 12 makroner
+- 4 spsk. gin
 
 Ginflødeskum:
-* 3 dl piskefløde
-* 50 g sukker
-* 1/2 dl gin
-* korn af den flækkede vaniljestang
+- 3 dl piskefløde
+- 50 g sukker
+- 1/2 dl gin
+- korn af den flækkede vaniljestang
 
 Pynt:
-lidt knuste makroner og rød skovsyre
+
+Lidt knuste makroner og rød skovsyre
 
 Rens og skær rabarberstængerne i 1 cm skiver. Rens og skyl jordbærrene, og skær 
 dem i kvarte. Skrab kornene ud af vaniljestangen. 
@@ -236,19 +237,24 @@ Knus makroner og læg i glas. Dryp med goin. Kom kompot i. Kom ginflødeskum i.
 pynt med knuste makroner. evt også et blad mynte eller lignenden.
 
 ## chokolademus
-250 g økologisk bæredygtig kogechokolade, 70 eller 80 pct.
-50 g sukker 6 økologiske æg, eventuelt pasteuriserede Et sprøjt citron En knivspids salt
-Eventuelt 50 g smør Eventuelt 1-2 teskefulde espresso Eventuelt revet appelsinskal Bræk
+
+-250 g økologisk bæredygtig kogechokolade, 70 eller 80 pct.
+-50 g sukker 
+- 6 økologiske æg, eventuelt pasteuriserede 
+- Et sprøjt citron 
+- En knivspids salt
+- Eventuelt 50 g smør 
+- Eventuelt 1-2 teskefulde espresso 
+- Eventuelt revet appelsinskal 
+
+Bræk
 chokoladen i stykker, og smelt den på lavt blus i et vandbad.
 Det er her, at smørret kan tilføjes. Smelter du smør med chokoladen, vil den blive lettere
 at blande sammen med både blommerne og senere æggehviderne.
 
 Slå æggene ud, og skil blommerne fra hviderne.
 Læg fire æggeblommer til side.
-Pisk æggehviderne med en knivspids salt og et lille sprøjt citronsa
-
-. Tilføj sukker til sidst
-
+Pisk æggehviderne med en knivspids salt og et lille sprøjt citronsaft.  Tilføj sukker til sidst
 for at få de piskede hvide til at stivne yderligere.
 Bland æggeblommerne med den smeltede chokolade. Den smeltede chokolade må ikke
 være så varm, at blommerne koagulerer, men varm nok til, at den forbliver flydende og
@@ -258,14 +264,11 @@ Du kan komme en eller to teskefulde espresso i chokoladen, som forstærker
 chokoladesmagen og gør den en snært mere flydende.
 Riv eventuelt en smule økologisk appelsinskal i den smeltede chokolade, men vær
 forsigtig, da den nemt kan overdøve smagen.
-Lø
+Løft 
 chokoladefadet ud af sit vandbad, og lad den køle en smule af. Den må ikke være
 brændende varm, men skal stadig være lun og flydende.
 Hæld først lidt af den smeltede chokolade op i æggeblommerne, bland det forsigtigt, og
-kom here
-
-er gradvis æggeblommerne i den smeltede chokolade, som skal bevare sin
-
+kom herefter gradvis æggeblommerne i den smeltede chokolade, som skal bevare sin
 glatte flydende tekstur.
 Hæld lidt af den piskede æggehvidemasse op i chokoladeblandingen, så den bliver
 lettere.
@@ -285,10 +288,10 @@ klassisk dessert, som for en sikkerheds skyld helst skal spises inden for 24 tim
 
 Krem som i kagekrem.
 
-1 æg (pasteuriseret)
-125 ml piskefløde
-1-2 spsk bacardi rom – jeg ville gå efter en mørk udgave, men det er en smagssag
-1 spsk flormelis
+- 1 æg (pasteuriseret)
+- 125 ml piskefløde
+- 1-2 spsk bacardi rom – jeg ville gå efter en mørk udgave, men det er en smagssag
+- 1 spsk flormelis
 
 Rør det hele samme, sørg for at sukkeret er helt opløst, og hæld det på sifon. Giv den 1 skud lattergas, og ryst grundigt.
 
@@ -305,12 +308,12 @@ Jeg bruger denne opskrift, som jeg har tyvstjålet fra Kvalimad-bloggen (den hol
 
 
 
-* 5 dl piskefløde
-* 2 dl mælk
-* 3 hele æg, eller 8 blommer.
-* 150 gram sukker (Du kan nøjes med 100 gram hvis du syntes den er for sød.)
-* 1 stangfuld vanillekorn
-* 1 spsk vanilleessens
+- 5 dl piskefløde
+- 2 dl mælk
+- 3 hele æg, eller 8 blommer.
+- 150 gram sukker (Du kan nøjes med 100 gram hvis du syntes den er for sød.)
+- 1 stangfuld vanillekorn
+- 1 spsk vanilleessens
 
 Det hele hældes i gryden, varmes op til 85 grader, og smides på ismaskinen. Og derefter kommer det i fryseren og er forhåbentlig klar til kæresten arriverer kl. 23. 
 
@@ -336,9 +339,9 @@ Man kan evt. stille beholderen i fryseren på forhånd. Men det giver mest menin
 
 Selvkomponeret. Men stærkt inspireret, ja nærmest kopieret, fra et tidligere eksperiment:
 
-* ½ l appelsinjuice
-* 160 g sukker
-* 1½ æggehvide
+- ½ l appelsinjuice
+- 160 g sukker
+- 1½ æggehvide
 
 Juice og 125 g sukker koges sammen og afkøles. 
 
