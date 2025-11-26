@@ -1,4 +1,4 @@
-# omregninger og mængder
+# Omregninger og mængder
 
 Ved kogning af pasta er reglen:
 
@@ -8,25 +8,25 @@ Ved kogning af pasta er reglen:
 
 ## US- til civiliserede mål
 
-* 1 oz ~ 28 gram
-* 375 F ~ 190 grader C
-* 1 cup = 273 ml
-* 1 pint = 2 cups = 546 ml
+- 1 oz ~ 28 gram
+- 375 F ~ 190 grader C
+- 1 cup = 273 ml
+- 1 pint = 2 cups = 546 ml
 
 
 ## Volumen/vægt
 
 ### Generelt
 
-* 1 spsk = 15 ml
-* 1 tsk = 5 ml
+- 1 spsk = 15 ml
+- 1 tsk = 5 ml
 
 ### Specifikke
 
 
-* 1 spsk groft salt = 22 gram
-* 1 tsk groft salt = 7 gram
-
+- 1 spsk groft salt = 22 gram
+- 1 tsk groft salt = 7 gram
+- 1 spsk smør = 14 gram hvis fast, 13 gram hvis flydende
 
 
 ## Mængder
