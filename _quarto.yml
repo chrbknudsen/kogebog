@@ -29,6 +29,7 @@ book:
     - rmds/omregninger.qmd
     - rmds/menuerne.qmd
     - rmds/bagning.qmd
+    - rmds/drinks.qmd
     - references.qmd
 
 bibliography: references.bib
