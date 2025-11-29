@@ -111,3 +111,18 @@ Jo hurtigere nedkøling/frysning, under jo mere omrøring, jo bedre.
 For langsom nedkøling kan føre til at fedtstoffet klumber sammen.
 
 Man kan tilsætte 0.02% carrageenan - der bidrager til at sikre en langsom smeltning. Det giver også en særlig mundfølelse ved lavt fedtindhold- og er blandt andet det der holder fedtfattig mayo sammen. Carrageenan nmedvirker til at isen smelter langsommere når den tages ud af frysen
+
+
+## Hvornår skal der saltes? 
+
+Franz Hofmeister -undersøgte i 1888 hvordan visse ioner får proteiner til at udfælde.
+Derfor ved vi hvorfor vi skal tilsætte salt hvornår.
+Hvis vi opløser salt i koldt vand, tilsætter kød, og koger,
+vil suppen være kraftig og velsmagende. Men kødet er udkogt og 
+kedeligt.
+
+Hvis vi tilsætte kød til kogende vand - og først salt senere, får
+vi en smagløs suppe, men kødet bevarer sin smag.
+
+Det skyldes at visse ioner får proteiner til at blive (mere) vandopløselige. Mens andre udfælder proteiner af vandig opløsning.
+Cl- er en af dem der gør proteiner mere vandopløselige. Derfor - hvis der er NaCl i fra start, opløses proteinerne i suppen. Det er det der giver smagen. Kommer NaCl først i senere, bliver proteinerne (i højere grad) i kødet, og kødet smager af mere.
