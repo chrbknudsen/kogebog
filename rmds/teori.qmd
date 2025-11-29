@@ -121,7 +121,7 @@ Hvis vi opløser salt i koldt vand, tilsætter kød, og koger,
 vil suppen være kraftig og velsmagende. Men kødet er udkogt og 
 kedeligt.
 
-Hvis vi tilsætte kød til kogende vand - og først salt senere, får
+Hvis vi tilsætter kød til kogende vand - og først salt senere, får
 vi en smagløs suppe, men kødet bevarer sin smag.
 
 Det skyldes at visse ioner får proteiner til at blive (mere) vandopløselige. Mens andre udfælder proteiner af vandig opløsning.
