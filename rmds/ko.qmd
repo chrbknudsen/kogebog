@@ -1,6 +1,6 @@
 # Ko
 
-Ko-opskrifter.
+
 
 ## Boeuf saute stroganoff
 
@@ -39,6 +39,7 @@ er også glimrende.
 ## Stifatho
 
 Det har sikkert været med ged eller lam snarere end ko. Men her i huset laves det med ko.
+
 - 800 g oksetykkam eller lignedne
 - 15 hele løg (lidt afhængig af deres størrelse)
 - 4 fed hvidløg
