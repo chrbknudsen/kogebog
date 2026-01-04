@@ -140,12 +140,12 @@ Forleden fik jeg lyst til fisk. Der var laks i Fakta. Og her efter jul og nytår
 
 Ingredienser:
 
-* 3 peberfrugter
-* 2 bundter forårsløg
-* 1 bakke champignon
-* 1 bakke cherrytomater
-* 3 fed hvidløg
-* 1 courgette
+- 3 peberfrugter
+- 2 bundter forårsløg
+- 1 bakke champignon
+- 1 bakke cherrytomater
+- 3 fed hvidløg
+- 1 courgette
 * 4 skiver laks
 * 3 dl hvidvin
 * 1 sjat Pernod
