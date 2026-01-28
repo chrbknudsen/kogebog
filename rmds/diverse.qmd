@@ -262,16 +262,16 @@ Hvad det hedder på dansk aner jeg ikke. Men på tjekkisk hedder det ovocné kne
 
 NB: Denne opskrift er en jeg har haft med hjem fra Prag. Den trænger til at blive justeret, for der er noget galt. Den skal have noget mindre mælk for at være til at arbejde med. Jeg prøvede den her i weekenden, og der var løsningen at give den mere mel. Det bliver de mindre søde af, så næste gang er det mælken der justeres med.
 
-* 15 g gær
-* 40 gram sukker
-* 1 nip salt
-* 250 g mel
-* 1 æg
-* 250 ml mælk
-* 8 gram vanillesukker
-* 20 blommer, abrikoser, jordbær eller anden frugt
-* 200 g smør
-* 150 g flormelis
+- 15 g gær
+- 40 gram sukker
+- 1 nip salt
+- 250 g mel
+- 1 æg
+- 250 ml mælk
+- 8 gram vanillesukker
+- 20 blommer, abrikoser, jordbær eller anden frugt
+- 200 g smør
+- 150 g flormelis
 
 Gær, sukker og salt røres sammen, og blandes med mel, æg, mælk og vanillesukker. Der æltes. Lad dejen hæve i 45 minutter. Rul den ud og skær den ud i 20 firkantede stykker.
 
@@ -288,9 +288,9 @@ Man kan måske med fordel spare lidt på smørret, men klassisk tjekkiske opskri
 Insekter skal der til!
 
 Et lille knas til det søde køkken.
-* 100 gram frysetørrede buffalo-orme
-* 4 spsk sukker
-* evt. et krydderi. Ingefær, anisfrø eller lignende, efter hvad der passer med hvad de skal serveres til.
+- 100 gram frysetørrede buffalo-orme
+- 4 spsk sukker
+- evt. et krydderi. Ingefær, anisfrø eller lignende, efter hvad der passer med hvad de skal serveres til.
 
 Varm sukkeret op på en pande med en sjat vand. Rør rundt og karamelliser.
 
@@ -310,11 +310,11 @@ Men hvad med resterne? Hver gang han fodres, hælder jeg det meste af ham i vask
 
 Lad os prøve at lave knækbrød.
 
-250 g Bent (eller hvad du nu kalder din surdej)
-125 g mel
-60 g smør
-½ tsk salt
-Tørrede krydderurter, olie og groft salt
+- 250 g Bent (eller hvad du nu kalder din surdej)
+- 125 g mel
+- 60 g smør
+- ½ tsk salt
+- Tørrede krydderurter, olie og groft salt
 
 Ælt Bent, mel, salt og smør sammen. Del dejen i to, og form dem til firkantede plader. Sæt dem på køl en halv time.
 
@@ -343,12 +343,12 @@ Det skal være let. Meget let. For klokken er som regel 17.30 når jeg kommer hj
 Denne opskrift har vi ikke prøvet endnu, men det ser godt ud. Den er ikke selvkomponeret, og med fem ingredienser er den mere end dobbelt så kompliceret som peberfrugtkyllingen. Men den er stadig enkel at gå til. Opskriften er tyvstjålet fra Travel Through Food.
 
 
-500 g kyllingelår, uden skind og ben, skåret i 2-3 skiver (hver)
-5-6 fed hakket hvidløg
-1½ tsk tørret persille (her ville jeg være fristet af frisk, men det kræver at vi får sat gang i et andet projekt)
-1 spsk mel
-1½ spsk olivenolie 
-Salt og peber
+- 500 g kyllingelår, uden skind og ben, skåret i 2-3 skiver (hver)
+- 5-6 fed hakket hvidløg
+- 1½ tsk tørret persille (her ville jeg være fristet af frisk, men det kræver at vi får sat gang i et andet projekt)
+- 1 spsk mel
+- 1½ spsk olivenolie 
+- Salt og peber
 
 
 Alt, bortset fra melet og olie, blandes sammen, og får lov at trække i et kvarter. Tilsæt mel, og rod godt rundt. Varm olien i en pande, steg kyllingerne til de er gyldne. De skal have 2-3 minutter på hver side, afhængig af tykkelse og varme.
@@ -411,13 +411,13 @@ Uvist hvorfor mener (dele af) svigerfamilien, at jeg er den store bagermester. D
 
 Men så må der hellere leves op til det. Næste bageprojekt bliver efter denne opskrift:
 
-190 g æg
-20 g æggeblommer
-80 g sukker
-1,5 g salt
-75 g majs juice
-40 g smeltet smør
-30 g mel
+- 190 g æg
+- 20 g æggeblommer
+- 80 g sukker
+- 1,5 g salt
+- 75 g majs juice
+- 40 g smeltet smør
+- 30 g mel
 
 Æggene, i deres respektive inkarnationer piskes sammen, resten af ingredienserne tilsættes og piskes.
 
@@ -437,17 +437,17 @@ En opskrift fra det gamle DDR. Hentet på DDR museet i Berlin. Og de havde den f
 
 Anyway:
 
-60 g sukker
-2 spsk honning
-næsten 250 ml vand
-saften af en citron
-4 store madæbler
-120 g mel
-2 spsk sukker
-1 nip salt
-2 æg
-Olie
-Flormelis.
+- 60 g sukker
+- 2 spsk honning
+- næsten 250 ml vand
+- saften af en citron
+- 4 store madæbler
+- 120 g mel
+- 2 spsk sukker
+- 1 nip salt
+- 2 æg
+- Olie
+- Flormelis.
 
 80 g sukker, honning, 125 ml vand, og citronsaft blandes, og koges ind til en halvtyk sirup. Skræl æblerne, og skær i kvarte - læg dem i siruppen.
 
@@ -547,75 +547,3 @@ https://www.weekendavisen.dk/kultur/creme
 
 
 
-
-Poached Pear Wrapped in Brie, Baked in Puff Pastry 💫
-From the outside, it’s golden and glossy. Inside? Creamy brie and a glistening red wine pear.
-This is dessert-meets-cheese course in the most spectacular way.
-🛒 Ingredients
-For the Poached Pear
-1 firm pear, peeled and cored from the bottom
-200 ml red wine
-2 tbsp brown sugar
-1 cinnamon stick
-2 cloves
-Zest of ½ orange
-Optional: splash of balsamic vinegar
-For the Burrata Bomb
-1 wheel of brie or camembert (200–250 g)
-1 sheet of puff pastry (thawed)
-1 egg, beaten (for egg wash)
-Optional: pinch of flaky salt or rosemary
-🍽️ Instructions
-The pear is deeply infused with wine and spice. The cheese softens to ooze. The pastry bakes to golden crunch. Together—they become a showstopping centerpiece.
-🍷 Poach the Pear: Combine red wine, sugar, cinnamon, cloves, zest, and vinegar in a saucepan. Add pear and simmer gently for 20–25 minutes until ruby red and tender. Let cool in the liquid.
-🧀 Assemble the Center: Carefully slice the brie in half horizontally. Place the drained pear upright in the center of the bottom half. Place the top half back over, gently pressing around the pear to seal.
-🧈 Wrap in Puff Pastry: Roll out puff pastry and wrap the stuffed cheese completely, trimming and sealing edges underneath. Place seam-side down on parchment.
-🥚 Egg Wash & Bake: Brush pastry with beaten egg. Optional: sprinkle flaky salt or herbs. Bake at 200°C (392°F) for 20–25 minutes until deeply golden. Let rest 5 minutes.
-🔪 Reveal the Pearl: Slice through the crust tableside for the full effect—molten cheese, rich pear, and crackling pastry in one elegant cut.
-📋 Recipe Details
-Prep Time: 30 minutes
-Cook Time: 25 minutes
-Resting Time: 10 minutes
-Servings: 4
-
-## fler noter
-
-
-## Tærte med stegte svampe og gulerødder - brunet smør sifon
-
-4 portioner
-
-Tærte:
-* 120 g hvedemel
-* 48 g hvidvin
-* 24 g smeltet smør
-* 10 g sukker
-* 6 g fint salt
-
-Sifon:
-* 76 g æggehvider
-* 58 g æggeblommer
-* 3.2 g fint salt
-* 3.2 g hvidvinseddike
-* 3.2 g dijonsennep
-* 180 g brunet smør - ca. 90 grader c
-
-Stegte grøntsager
-* 3.2 små skrubbede gulerødder 
-* 80 g champignon i skiver
-* 60 g østershat i strimler
-* 690 g bøgehatte
-* brunet smør til stegning
-* salt
-* peber
-
-Tærte: Ælt alle ingredienser hurtigt sammen og rul dejen tyndt ud. Stik den ud og kom i tærte forme.
-Bag tærterne i pres mellem to forme - til de er sprøde og gyldne. 10 - 12 minutter ved 180 grader c.
-
-Sifon: Blend æggehvider, blommer, salt, eddike og sennep. Tilsæt brunet smør i tynd stråle
-mens blenderen kører. Kom den i sifon, tilsæt en patron og ryst flasken grundigt. Hold den 
-varm til servering.
-
-Grøntsager: Blancher gulerødder i saltet vand. Steg svampene i brunet smør og 
-tilsæt gulerødder.
-Anret grøntsager i de små tærter. Sifoner over - pynt med en urt.
