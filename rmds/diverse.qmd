@@ -70,11 +70,11 @@ Det tester vi så!
 ## Dagens køkkeneksperiment – Quindim
 Efter ønske fra svogeren, eller hvad kærestens bror nu skal kaldes når der ikke er papir på familieforholdet, er der blevet eksperimenteret med en brasiliansk kokoskage. Det var ikke nogen stor succes i første omgang. Det kan være vi prøver igen i morgen. Anyway. Quindim kaldes den. Opskriften var som følger:
 
-* 75 g kokosmel
-* 225 g sukker
-* 1 spsk smør
-* 6 æggeblommer
-* 1½ æggehvide
+- 75 g kokosmel
+- 225 g sukker
+- 1 spsk smør
+- 6 æggeblommer
+- 1½ æggehvide
 
 Kokosmel, sukker og smør blev rørt sammen, blommerne pisket i en af gangen, og den stivpiskede hvide rørt i til sidst. Bagt i en 24 cm springform i vandbad i ovnen ved 180 grader i 30 minutter. Den så godt nok færdig ud efter 20, men det var den ikke. Prik i den med en stegenål.
 
