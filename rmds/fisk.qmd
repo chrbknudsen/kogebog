@@ -6,7 +6,7 @@ format:
         number_sections: true
 ---
 
-## Lax på grønt
+## Laks på grønt
 
 Det meste madlavning derhjemme er improviseret, og uden opskrift. Som regel går det godt. Undertiden går det så godt, at jeg bliver opfordret til at gentage successen. Og det er jo et problem - for jeg har sjældent noteret hvad det var jeg gjorde.
 
