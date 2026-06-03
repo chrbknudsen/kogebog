@@ -521,7 +521,7 @@ I den oprindelige molsliniesalat var der også mandariner. Det gider jeg ikke st
 
 ## Gnocchi med hjemmelavet pasto
 
-Man kan også lave det uden hjemmelavet pesto
+Man kan også lave det uden hjemmelavet pesto. Men her er en [opskrift](green.qmd#nemlig-pesto)
 
 - 2 spsk olivenolie
 - 250 g grønne asparges
@@ -535,7 +535,7 @@ Steg dem sammen med tomaterne op en varm pande, middelvarme i et par minutter.
 Smid den friske gnocchi på panden og steg dem (ideelt) gyldne - ca. 5 minutter.
 Tag af varmen, vend pesto og parmasan i. Server straks. 
 
-## Hjemmelavet pesto
+## Hjemmelavet pesto {#nemlig-pesto}
 
 - 100 g mandler
 - 50 g basilikum
