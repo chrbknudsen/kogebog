@@ -1,0 +1,264 @@
+---
+title: "Kalorie- og kulhydratfattig madlavning"
+subtitle: "Nudler, sødemidler, tykningsmidler og opskrifter"
+lang: da
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+    number-sections: true
+    code-fold: true
+  pdf:
+    toc: true
+    number-sections: true
+    documentclass: scrartcl
+execute:
+  echo: false
+---
+
+> **Om tallene.** Næringsværdier er afrundede overslag, ikke laboratorieanalyser. Brug varedeklarationer for de konkrete produkter. Kulhydrat i danske/EU-deklarationer er normalt **eksklusive kostfibre**. Fedtindhold i kød, størrelse af æg, mængde sauce og tilsætning af olie kan ændre resultatet betydeligt.
+>
+
+# Nudler og alternativer
+
+Tal pr. **100 g spiseklar vare**, bortset fra hvor andet er anført. Værdier for færdigvarer varierer; nogle udenlandske deklarationer angiver *total carbohydrate*, som også omfatter fibre, og kan derfor ikke sammenlignes direkte med dansk "kulhydrat".
+
+| Type | Energi (kcal/100 g, ca.) | Fordøjelige kulhydrater (g/100 g, ca.) | Konsistens og anvendelse |
+|---|---:|---:|---|
+| Shirataki/konjaknudler | 5–15 | 0–2 | Elastiske, velegnede til wok og suppe |
+| Tofu-shirataki | 10–25 | 0–3 | Ofte lidt blødere; kontrollér sojaandel |
+| Kelp-/tangnudler | 5–25 | 0–4 | Sprøde, glasnudelagtige; produkt og jodindhold varierer |
+| Squashnudler (rå) | 17 | 2–3 | Blødere; kort stegning, ellers vandige |
+| Palmehjerte-nudler | 20–35 | 2–5 | Fastere; gode med tyk sauce |
+| Fintsnittet spids-/hvidkål | 25–35 | 3–5 | Godt bid i wok |
+| Bønnespirer | 25–35 | 2–5 | Sprøde; bedst som supplement |
+| Kogte risnudler | 105–115 | 24–26 | Traditionelle nudler; ikke lavkulhydrat |
+
+**Teknik:** Skyl konjaknudler grundigt, lad dem dryppe af, og tørsteg dem 3–5 minutter, før saucen tilsættes. Brun kød og svampe separat for at få stegesmag. Kelp-nudler kan blødgøres med syrlig marinade; tjek jodindholdet på tangprodukter.
+
+# Sødemidler
+
+## Intense sødestoffer
+
+Sødme er omtrentligt relativt til sakkarose (= 1). Kolonnen *kalorier* gælder den meget lille **mængde rent sødestof, der normalt bruges** — ikke nødvendigvis et bordprodukt med maltodextrin eller dextrose.
+
+| Sødestof | E-nr. | Relativ sødme (ca.) | Kalorier ved normal brug | Direkte akut effekt på blodsukker |
+|---|---|---:|---|---|
+| Sucralose | E955 | 600× | Ubetydelige | Normalt ingen væsentlig |
+| Steviolglykosider | E960 | 200–400× | Ubetydelige | Normalt ingen væsentlig |
+| Acesulfam-K | E950 | 200× | Ubetydelige | Normalt ingen væsentlig |
+| Aspartam | E951 | 180–200× | Ubetydelige* | Normalt ingen væsentlig |
+| Sakkarin | E954 | 200–700× | Ubetydelige | Normalt ingen væsentlig |
+| Cyklamat | E952 | 30–50× | Ubetydelige | Normalt ingen væsentlig |
+| Neotam | E961 | 7.000–13.000× | Ubetydelige | Normalt ingen væsentlig |
+| Advantam | E969 | ca. 20.000× | Ubetydelige | Normalt ingen væsentlig |
+
+\* Aspartam leverer kemisk set omkring 4 kcal/g, men dosen er meget lille. **Aspartam skal undgås ved phenylketonuri (PKU)**. Brug helst sucralose til saucer, der opvarmes; langvarig stærk opvarmning er ikke ideel for alle formuleringer.
+
+## Polyoler (sukkeralkoholer)
+
+EU's deklarationsfaktor er **2,4 kcal/g for polyoler**, undtagen **erythritol: 0 kcal/g**. Det er en *mærkningskonvention*, ikke en præcis måling af hvert stofs metaboliserbare energi. GI-tal er usikre, især fordi polyoler ikke uden videre kan testes som 50 g tilgængeligt kulhydrat.
+
+| Polyol | E-nr. | kcal/100 g (EU-deklaration) | Sødme ift. sukker | Typisk blodsukkereffekt |
+|---|---|---:|---:|---|
+| Erythritol | E968 | 0 | 60–80 % | Næsten ingen |
+| Xylitol | E967 | 240 | ca. 100 % | Lille |
+| Sorbitol | E420 | 240 | 50–60 % | Lille |
+| Mannitol | E421 | 240 | 50–70 % | Meget lille |
+| Isomalt | E953 | 240 | 45–65 % | Meget lille |
+| Lactitol | E966 | 240 | 30–40 % | Lille |
+| Maltitol | E965 | 240 | 75–90 % | Kan være mærkbar |
+
+Større mængder polyoler kan give oppustethed eller diarré. **Xylitol er meget giftigt for hunde.** Erythritol kan krystallisere og give en kølende mundfølelse. Langsigtede hjerte-kar-effekter af erythritol undersøges fortsat; observationsfund dokumenterer ikke i sig selv årsagssammenhæng.
+
+## Sukker og sirupper
+
+| Ingrediens | kcal/100 g (ca.) | Akut blodsukkereffekt |
+|---|---:|---|
+| Sukker (sakkarose) | 400 | Betydelig |
+| Glukose | 400 | Stor |
+| Fruktose | 400 | Lavere akut respons end glukose, men samme energi |
+| Honning | 300–330 | Betydelig |
+| Agavesirup | 300–320 | Varierende; indeholder sukker |
+| Ahornsirup | 260 | Betydelig |
+
+## GI og GL: hvad kan sammenlignes?
+
+**Glykæmisk indeks (GI)** beskriver blodsukkerrespons på en standardportion tilgængeligt kulhydrat sammenlignet med glukose (GI = 100). **Glykæmisk belastning (GL)** beregnes:
+
+$$
+\mathrm{GL}=\frac{\mathrm{GI}\cdot\text{gram tilgængeligt kulhydrat i portionen}}{100}.
+$$
+
+| Stof | Omtrentlig GI fra litteraturen | Fortolkning |
+|---|---:|---|
+| Glukose | 100 | Reference |
+| Sakkarose | ca. 65 | Varierer med forsøg |
+| Fruktose | ca. 20 | Lavt GI betyder ikke lav energi |
+| Laktose | ca. 45–50 | Moderat |
+| Xylitol | ca. 10–15 | Polyol; værdi mindre sammenlignelig |
+| Sorbitol | ca. 5–10 | Polyol; værdi mindre sammenlignelig |
+| Maltitol | ca. 30–55 | Varierer bl.a. efter produktform |
+| Erythritol | Nær nul respons | Formelt GI ikke robust defineret |
+| Sucralose, stevia m.fl. | **Ikke defineret** | Ingen meningsfuld 50-g-kulhydrat-test |
+
+**Regneeksempel (sukker):** 15 g sakkarose med anslået GI 65 giver $\mathrm{GL}\approx 65\cdot15/100=9{,}75$. En sauce sødet med ren sucralose har praktisk talt intet GL-bidrag **fra sødestoffet**, men de øvrige ingredienser kan godt indeholde kulhydrater. For polyoler er det misvisende blot at indsætte hele polyolmængden som "tilgængeligt kulhydrat".
+
+**Praktisk valg:** Flydende sucralose til sur/sød wok-sauce og vaniljesauce; erythritol kan bruges, hvor sukkerets volumen er ønsket, men konsistensen og opløseligheden ændres. Tjek altid fyldstofferne i bordprodukter.
+
+# Tykningsmidler
+
+Vejledende doser angives pr. **100 g færdig væske/produkt** (tilnærmelsesvis pr. 100 ml vandbaseret sauce). Begynd i den lave ende; især små mængder hydrocolloid ændrer konsistensen markant.
+
+| Middel | E-nr. | Typisk startområde pr. 100 g | Aktivering og fremgangsmåde | Bedst til |
+|---|---|---:|---|---|
+| Xanthangummi | E415 | 0,1–0,3 g | Dispergér under kraftig omrøring, koldt eller varmt | Wok, dressing, suppe |
+| **Johannesbrødkernemel** (LBG) | **E410** | **0,2–0,5 g** | Blend koldt ind; varm typisk til ca. 80–90 °C for fuld hydrering | Vaniljesauce, is, cremer |
+| Guargummi | E412 | 0,1–0,4 g | Hydrerer også koldt; drys i under blending | Kolde saucer, is |
+| Tarakernemel | E417 | 0,1–0,4 g | Hydrerer bedst med opvarmning | Is, mælkedesserter |
+| Konjakglucomannan | E425 | 0,1–0,4 g | Kraftig dispersion; kraftig viskositetsstigning | Saucer og gelprodukter |
+| Lambda-carrageenan | E407 | 0,1–0,4 g | Hydrering typisk med varme | Flydende mælkedesserter |
+| Iota-carrageenan | E407 | 0,1–0,5 g | Varmes; gel i nærvær af relevante ioner | Blød budding og gel |
+| Agar | E406 | 0,3–1,0 g | Bring helt i kog; sætter ved afkøling | Fast gelé |
+| LM-pektin | E440 | 0,3–1,0 g | Opløs korrekt; kræver passende calcium til gel | Sukkerreduceret marmelade |
+| Gellangummi | E418 | 0,05–0,4 g | Kræver typisk høj temperatur; type og ioner bestemmer gel | Fine geler |
+| Natriumalginat | E401 | 0,3–1,0 g | Hydrér koldt; gelerer med calcium | Sfærifikation, frugtgel |
+| CMC/cellulosegummi | E466 | 0,2–0,8 g | Dispergeres under omrøring | Is, sauce, creme |
+| Gelatine | E441 | 0,5–2 g | Udblød, opløs lunt; sætter ved køling | Mousse, panna cotta |
+| Majsstivelse | — | 3–6 g | Rør ud i kold væske, varm til gelatinisering | Klassiske saucer |
+| Kartoffelstivelse | — | 2–5 g | Rør ud koldt, varm forsigtigt; undgå lang kogning | Klare saucer |
+
+### Konsistens og anvendelse
+
+| Formål | Førstevalg | Alternativ eller bemærkning |
+|---|---|---|
+| Varm sur/sød wok-sauce | Xanthan | Guar; start med 0,10–0,15 % xanthan |
+| Kold dressing | Xanthan eller guar | Xanthan stabiliserer også emulsioner |
+| Crème anglaise | Æggeblommer; evt. meget lidt LBG | Lambda-carrageenan til mælkebaseret fylde |
+| Is med mindre fedt | LBG + guar | Hjælper på mundfølelse og iskrystaller |
+| Panna cotta | Gelatine | Iota-carrageenan som alternativ |
+| Sukkerreduceret marmelade | LM-pektin med calcium | Xanthan giver tykkelse, ikke samme gel |
+| Klar gelé | Agar eller gellan | Gelatine giver anden mundfølelse |
+| Cremet grøntsagssuppe | Xanthan | Blending af grøntsager giver også fylde |
+
+**Energi:** Mange hydrokolloider består hovedsageligt af ikke-fordøjelige polysaccharider. EU-deklarationsfaktoren for kostfibre er 2 kcal/g. I doser på 0,2–0,6 g bidrager de typisk med omkring 0–1 kcal pr. portion. Gelatine er et protein, og stivelse tilfører fordøjelige kulhydrater.
+
+**Synergi:** Xanthan og johannesbrødkernemel kan give en meget kraftigere struktur sammen end hver for sig; begynd lavt, hvis de kombineres. Brug en præcisionsvægt (helst 0,01 g) og en stavblender til at undgå klumper.
+
+# Opskrifter
+
+Alle opskrifter er til **én person**, medmindre andet er angivet. Brug en god slip-let-pande, hvis du vil undgå stegeolie. Tilsæt gerne ekstra protein og grøntsager efter appetit.
+
+## Basis: Shirataki med champignon, squash og chili
+
+**Ingredienser:** 200 g shirataki, 200 g champignon, 100 g squash, 1 fed hvidløg, ½ chili, 1 spsk soja, 1 tsk riseddike, 2–3 spsk vand, evt. ingefær og koriander.
+
+1. Skyl nudlerne, dryp af og tørsteg 3–5 minutter; tag af panden.
+2. Steg champignon, til de afgiver og fordamper væske; tilsæt squash i 2–3 minutter.
+3. Tilsæt hvidløg og chili (og evt. ingefær), derefter soja, eddike og vand.
+4. Vend nudlerne i saucen 1–2 minutter.
+
+**Anslået:** 100–130 kcal og 10–15 g kulhydrater, afhængigt af produkter og grøntsager. Retten har begrænset protein; tilsæt fx 150 g rejer eller kylling, hvis den skal være et helt aftensmåltid.
+
+## Fem variationer
+
+### 1. Rejer med lime og chili
+
+**Ingredienser:** 200 g shirataki, 150 g kogte rejer, 100 g squash, 100 g champignon, 1 fed hvidløg, chili, ½ lime, 1 spsk fiskesauce, koriander.
+
+1. Skyl og tørsteg nudlerne; sæt til side.
+2. Steg champignon og squash med lidt vand; tilsæt hvidløg og chili.
+3. Vend nudler og rejer i; tilsæt fiskesauce og lime. Varm kun rejerne igennem.
+4. Top med koriander.
+
+### 2. Carbonara-inspireret med bacon og parmesan
+
+**Ingredienser:** 200 g shirataki, 1 æg, 30 g bacon, 15 g parmesan, 100 g champignon, sort peber.
+
+1. Skyl og tørsteg nudlerne.
+2. Steg bacon og champignon.
+3. Pisk æg, parmesan og peber sammen.
+4. Vend nudler i panden, tag den **helt af varmen**, og rør æggeblandingen i. Tilsæt lidt varmt vand efter behov; varm kun forsigtigt for at undgå røræg. Brug evt. pasteuriseret æg.
+
+### 3. Japansk-inspireret misosuppe med kylling
+
+**Ingredienser:** 200 g shirataki, 120 g kyllingebryst, 150 g svampe, 100 g pak choi, 1 spsk miso, 500 ml bouillon, ingefær, hvidløg, 1 tsk soja og forårsløg.
+
+1. Kog bouillon op med ingefær og hvidløg.
+2. Lad tynde strimler kylling simre, til de er gennemtilberedte.
+3. Tilsæt svampe og pak choi; derefter skyllede nudler.
+4. Tag gryden af varmen, opløs miso i lidt suppe og rør tilbage. Smag til med soja og forårsløg.
+
+### 4. Bolognese med shirataki
+
+**Ingredienser:** 200 g shirataki, 125 g hakket oksekød (3–7 %), 150 g hakkede tomater, 100 g champignon, 50 g løg, hvidløg, 1 tsk tomatpuré, oregano og basilikum.
+
+1. Skyl og tørsteg nudlerne.
+2. Brun oksekød; tilsæt løg, svampe og hvidløg.
+3. Kom tomat, tomatpuré og krydderier ved; lad simre cirka 10 minutter.
+4. Vend nudlerne i den forholdsvis tykke sauce.
+
+### 5. Svinemørbrad, broccoli og østerssauce
+
+**Ingredienser:** 200 g shirataki, 130 g svinemørbrad, 150 g broccoli, 100 g champignon, hvidløg, ingefær, 1 spsk østerssauce, 1 tsk soja, chili og lidt vand.
+
+1. Skyl og tørsteg nudlerne.
+2. Brun tynde strimler mørbrad og steg dem gennem.
+3. Tilsæt svampe, broccoli, hvidløg og ingefær; damp kort med lidt vand.
+4. Rør østerssauce og soja i, vend nudlerne med, og servér.
+
+**Om næringsindhold:** Med de angivne mængder vil retterne typisk ligge i størrelsesordenen 200–400 kcal pr. portion, men præcise tal afhænger især af bacon, oksekød, bouillon, mærker og eventuelt stegefedt. De er generelt betydeligt mere proteinrige end basisretten.
+
+## Mørk sur/sød wok-sauce uden tilsat sukker
+
+Passer til ca. 200 g shirataki, 150 g kød/rejer og 200 g grøntsager.
+
+**Ingredienser:** 15 ml lys soja, 15 ml usødet riseddike, 50 ml vand, 5 ml østerssauce, 10 g ingefær, 1 fed hvidløg, chili, sucralose med sødme svarende til **cirka 10 g sukker**, evt. 0,2 g MSG og **0,1–0,2 g xanthan**.
+
+1. Bland soja, eddike, vand, østerssauce, revet ingefær, hvidløg og chili.
+2. Lad simre 2–3 minutter.
+3. Tag af varmen og tilsæt sucralose lidt ad gangen efter produktets doseringsvejledning.
+4. Blend **først 0,1 g xanthan** i; øg kun, hvis saucen skal være tykkere. Lad hydrere et minut.
+5. Vend saucen i den færdige wok umiddelbart inden servering.
+
+**Variationer:** Til sød chili tilsættes mere chili, eddike og sødme. Til teriyaki-inspireret sauce bruges mere soja og mindre eddike. Til Sichuan-inspireret sauce tilsættes sichuanpeber og evt. kinesisk sort eddike.
+
+**Anslået for saucen:** 25–40 kcal, 3–6 g fordøjelige kulhydrater, afhængigt af soja, østerssauce og øvrige ingredienser.
+
+## Crème anglaise uden tilsat sukker
+
+Ca. **4 portioner**. Dette er en dessert med mindre sukker, ikke en kaloriefri dessert.
+
+**Ingredienser:** 200 ml letmælk (1,5 %), 100 ml piskefløde, 3 æggeblommer, vanilje, lidt salt, sucralose svarende til 35–45 g sukker. Valgfrit: **0,3–0,5 g johannesbrødkernemel** til ekstra fylde.
+
+1. Uden LBG: Varm mælk, fløde og vanilje til cirka 75 °C.
+2. Med LBG: Blend det først i **kold** mælk/fløde. Opvarm mælkeblandingen til ca. 85 °C under omrøring, så LBG hydreres, og lad den køle lidt før æggene tilsættes.
+3. Rør æggeblommer og salt sammen, og temperér langsomt med den varme mælkeblanding.
+4. Hæld tilbage i gryden og varm under **konstant omrøring** til cirka 80–82 °C eller til saucen netop dækker bagsiden af en ske. Undgå kogning og overophedning.
+5. Tag af varmen, si saucen, smag til med sucralose og afkøl hurtigt.
+
+**Lettere version:** Udelad fløden og brug 300 ml letmælk. Det giver en mindre fyldig sauce, men reducerer energien betydeligt. Med 200 ml letmælk, 100 ml fløde og 3 æggeblommer er hele opskriften groft **550–650 kcal** (omtrent 140–160 kcal pr. fjerdedel). Med 300 ml letmælk og 3 æggeblommer er den groft **300–330 kcal** (75–85 kcal pr. fjerdedel). Mælkesukkeret bidrager fortsat til kulhydraterne.
+
+**Bemærk:** Johannesbrødkernemel er et supplement, ikke nødvendigt i klassisk crème anglaise. Det giver mere fylde, men for høj dosering gør saucen puddingagtig.
+
+# Hurtig indkøbsliste
+
+- Shirataki-/konjaknudler (evt. også kelp- eller palmehjerte-nudler)
+- Flydende sucralose **uden sukkerholdige fyldstoffer**
+- Xanthangummi (E415) til wok og dressing
+- Johannesbrødkernemel (E410) til mælkebaserede saucer og is
+- Eventuelt guargummi (E412) til kolde cremer og is
+- Usødet riseddike, soja, ingefær, chili og evt. MSG
+- Præcisionsvægt med opløsning 0,01 g
+
+# Kilder og forbehold
+
+- [FDA: High-Intensity Sweeteners](https://www.fda.gov/food/food-additives-petitions/high-intensity-sweeteners) – sødestoffer og relativ sødme.
+- [EFSA: Re-evaluation of erythritol (E 968)](https://www.efsa.europa.eu/en/plain-language-summary/re-evaluation-erythritol-e-968-food-additive) – sikkerhed og usikkerhed ved erythritol.
+- [Diabetes UK: Sugar, sweeteners and diabetes](https://www.diabetes.org.uk/living-with-diabetes/eating/carbohydrates-and-diabetes/sugar-sweeteners-and-diabetes) – praktisk sammenhæng med diabetes.
+- [University of Sydney: Glycemic Index FAQ](https://glycemicindex.com/faqs/) – definition af GI og GL.
+- [Saha & Bhattacharya (2010), *Hydrocolloids as thickening and gelling agents in food*](https://pmc.ncbi.nlm.nih.gov/articles/PMC3551143/) – faglig oversigt over hydrokolloider.
+- [EU-forordning 1169/2011, bilag XIV](https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32011R1169) – energiomregningsfaktorer for kulhydrater, polyoler og fibre.
+
+GI-tal for polyoler skal læses som omtrentlige litteraturangivelser, **ikke** som målte værdier på samme standardiserede grundlag som GI for almindelige kulhydrater. Oplysningerne her erstatter ikke individuel rådgivning om diabetesbehandling eller ernæring.
